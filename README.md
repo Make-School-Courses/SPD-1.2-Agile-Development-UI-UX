@@ -2,7 +2,9 @@
 
 ## Course Description
 
-Term two focuses on the foundational skills of successful engineering teams. In pairs, you and your partner will together build an app using “lean product development” methodology, the industry standard for engineering team collaboration. You'll learn SCRUM planning, an agile process used to ensure that your app meets user needs and technical specifications. This class also covers how to make a seamless user experience (UX) based in an effective user interface (UI). We utilize design concepts inherent in the world’s most popular apps: information hierarchy, landing pages, system state, onboarding teardowns, typography and color. By the end you and your partner will ship a beautiful app that delights users.
+Term two focuses on the foundational skills of successful engineering teams. In pairs, you and your partner will together build an app using “lean product development” methodology, the industry standard for engineering team collaboration. You'll learn SCRUM planning, an agile process used to ensure that your app meets user needs and technical specifications. 
+
+This class also covers how to make a seamless user experience (UX) based in an effective user interface (UI). We utilize design concepts inherent in the world’s most popular apps: information hierarchy, landing pages, system state, onboarding teardowns, typography and color. By the end you and your partner will ship a beautiful app that delights users.
 
 
 ## Course Specifics
@@ -23,15 +25,15 @@ None <br>
 
 Students by the end of the course will be able to ...
 
-1. Compare and contrast the benefits and drawbacks of Waterfall vs. Agile methodology, and follow iterative processes of user interviews, wireframes, and user narratives. (PLO 1 & 3) 
+1. Conduct Sprint Planning and Retrospectives to empower effective collaboration (PLO 3, PLO 4)
     - Assessment: Summative Assessment
-1. Explain various strategies to evaluate a problem space and product opportunities including PEST Analysis, Competitive Analysis, and User Interviews (PLO 5)
-    -  Assessment: Summative Assessment
-1. Create a prototypes of a product using User Personas, User Narratives, Wireframes Entity Relationship Diagrams and resource based scoping (PLO 3)
+1. Design beautiful, practical, and intuitive apps using the leading UI/UX practices (PLO 3)
+    - Assessment: Summative Assessment
+1. Use agile methodology to iterate your app design as informed by user interviews and feedback (PLO 3)
     - Assessment: Summative Assessment
 1. Demonstrate a diverse and individualized set of professional skills necessary to succeed while at Make School and beyond. (PLO 1) 
     - Assessment: Summative Assessment
-1. Consistently practice professional business communication that is actionable with an appreciative tone. (PLO 4, PLO 6)
+1. Consistently practice professional business communication that is actionable with an appreciative tone. (PLO 4)
     - Assessment: Final Blog Post; Rubric: [Written Communication Rubric (AAC&U Value Rubric)](https://drive.google.com/file/d/1Q7kd-JTwd8COOGNeSD43UoAivwF5_dWZ/view?usp=sharing)
 
 ## Tutorials & Projects
@@ -87,7 +89,8 @@ To pass this course you must meet the following requirements:
     - **After Class** - 1) 
 1. UI Layout and Grid System
     - **In Class Activities** 
-        - *Networking Simulation* -
+        - *ACTIVITY* -
+        - *Feedback* - spend 10 min to give and get feedback on your latest design iteration
     - **After Class** - sign up for one of these networking events
 1. Sprint Retrospective
     - **In Class Activities** 
@@ -96,30 +99,33 @@ To pass this course you must meet the following requirements:
     - **After Class** - 1) finish the Reflective Best Self activity and 2) share your content with your coach
 1. UI
     - **In Class Activities**  
-        - *Pick*
+        - *ACTIVITY*
+        - *Feedback* - spend 10 min to give and get feedback on your latest design iteration
     - **After Class** - 
 1. UI 
     - **In Class Activities**  
-        - *Make*
+        - *ACTIVITY*
+        - *Feedback* - spend 10 min to give and get feedback on your latest design iteration
     - **After Class** - 1) Finish your Wireframe and ERD 2) add both the Wireframe and ERD to your blog post draft.
 1. Assessment: Test & submit 1000 word blogpost
     - **In Class Activities**
-        - *S*
+        - *Assessment* - you'll take an assessment that cover the content from SPD 1.2. I recommend you review class slides and understand the major ideas taught in each activity.Those who miss this in-class assessment have the option to retake it the the Wednesday during the weeklong intensity.
+
     - **After Class** - Relax. Pat yourself on the back for your hard work! Get ready to build and ship your product idea (or a new product idea) during next week's product intensive.
 
 
 ## Huddle Schedule - daily morning group meeting
-* Week 1: Group Formation - Get to know your fellow classmates and establish a foundation of community
+* Week 1: Collaboration - Get to know your fellow classmates and establish a foundation of community
     * Instructor facilitated discussion of principles of professional development and application of those principles to this cohort 
-* Week 2: Goal & Priority Setting - Discuss personal goals and priorities for term 1 and the entirety of Make School
+* Week 2:  - Discuss personal goals and priorities for term 1 and the entirety of Make School
     * Instructor facilitated discussion of principles of habit formation as it relates to setting personal goals and priorities
-* Week 3: Appreciating Differences - Appreciating and understanding perspectives different than your own
+* Week 3: Learning from others - Appreciating and understanding perspectives different than your own
     * Instructor facilitated discussion of principles of business communication as it relates to this cohort and in a professional work setting 
-* Week 4: Calendar & Productivity - Optimizing your calendar, work flows and habits to be productive
+* Week 4: UI/UX - Optimizing your calendar, work flows and habits to be productive
     * Instructor facilitated discussion of principles of peak performance and how to organize one’s own work system to optimize performance
-* Week 5: Imposter Syndrome - Overcoming imposter syndrome and professional challenges
+* Week 5: Appreciation - Overcoming imposter syndrome and professional challenges
     * Instructor facilitated discussion of principles of positive psychology and mindset as it relates to professional challenges
-* Week 6: Industry Contacts & Mentorship - Connecting with industry contacts and mentors and utilizing feedback
+* Week 6:  - Connecting with industry contacts and mentors and utilizing feedback
     * Instructor facilitated discussion of principles for finding mentors and making use of mentorship conversation to improve one’s own professionalism and performance
 * Week 7: Reflections - Reflections on term 1 and goals to make Term 2 even better
     * Instructor facilitated reflections on lessons learned from the term and how best to adjust one’s work system to evolving professional demands
