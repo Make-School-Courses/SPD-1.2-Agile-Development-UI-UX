@@ -68,11 +68,11 @@ To pass this course you must meet the following requirements:
     - **In Class Activities** 
         - *Giving & Recieving Feedback Challenge*
     - **After Class** - 
-1. XXXXXX
+1. Spring Planning
     - **In Class Activities** 
-        - *Professional Email Challenge* .
-    - **After Class** - 1) get feedback from a peer on your email drafts 2) email a few people to conduct a user interview with them
-1. Rejection Therapy - User Interview Lab
+        - *Sprint Planning* - You and your partner will plan a "Sprint," the industry term for a set period of work to accomplish particular tasks. Professional engineering teams conduct sprint planning to prioritize features and bugs, estimate times to complete tasks, and address any other issues the team faces.
+    - **After Class** - 1) execute your sprint with your project partner
+1. Mock Ups
     - **In Class Activities** 
         - *User Interview Challenge (Rejection Therapy)* - Each student will "get out of the building" to conduct actual user interviews. Interviewees may include someone you randomly approach on streets, someone from an organization related to your problem area whom you "cold call".  These interviews will further develop your understanding of your problem space. Building something that matters requires resillience. Many will say "no" to your interview request. Stay resillient! As you conduct interviews, Remember that your thinking about the problem will adapt as you gain more data. Remember to rely on more than one person's perspective.  Some students may conduct interviews prior to class.
     - **After Class** - 1) add notes about your experinece and learnings conducting user interviews to your draft blog post
