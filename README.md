@@ -2,7 +2,7 @@
 
 ## Course Description
 
-Term two focuses on the foundational skills of successful engineering teams. In pairs, you'll build an app using “lean product development” methodology, the industry standard for engineering team collaboration. You'll learn SCRUM planning, an agile process used to ensure that your app meets user needs and technical specifications. This class also covers how to make a seamless user experience (UX) based in an effective user interface (UI). We utilize design concepts inherent in the world’s most popular apps: information hierarchy, landing pages, system state, onboarding teardowns, typography and color. By the end you and your partner will ship a beautiful app that delights users.
+Term two focuses on the foundational skills of successful engineering teams. In pairs, you and your partner will together build an app using “lean product development” methodology, the industry standard for engineering team collaboration. You'll learn SCRUM planning, an agile process used to ensure that your app meets user needs and technical specifications. This class also covers how to make a seamless user experience (UX) based in an effective user interface (UI). We utilize design concepts inherent in the world’s most popular apps: information hierarchy, landing pages, system state, onboarding teardowns, typography and color. By the end you and your partner will ship a beautiful app that delights users.
 
 
 ## Course Specifics
@@ -57,20 +57,20 @@ To pass this course you must meet the following requirements:
 1. Problem Ideation & Intro to SPD 1.2
     - **Before Class** - think of problems in the world that could be solved with technology
     - **In Class Activities** - 
-        - *"Problem Area" Brainstorm & Pitch creation* - In class, we'll brainstorm problems areas and product ideas for our term 2 SPD project. You'll also hone your "pitch" for your idea that you will use to convince someone to work with you. This term, we'll work on projects in pairs instead of building projects on our own.
+        - *"Problem Area" Brainstorm & Pitch creation* - In class, we'll brainstorm problems areas and product ideas for our term 2 SPD project. You'll also hone your "pitch" for your idea that you will use to convince someone to work with you. This term, we'll work on projects in pairs instead of building an app or website on our own.
     - **After Class** - 1) Work on your pitch of your product idea, we'll give formal pitches and find partners during the next class 2) try and find a partner to work on your project with. 3) Conduct user interviews to hone and validate your idea
 1. Pitching, Pair Formation, Wireframing
     - **In Class Activities** - 
         -  *Product Pitches* - Students will pitch their product idea (both verbally and through text) and self select into partner pairs. This is a great exercise in persuasion and collaboration.
-        -  **Draft Wireframe - Create a wireframe for your app.
+        -  **Draft Wireframe - Create a wireframe for your app. As we learned last term, it's critical to user test this wireframe to ensure that it is intuitive and meets user needs.
+    - **After Class** - 1) conduct user interviews for your idea 2) get feedback on your wireframe
+1. Wireframe feedback & UI/UX intro
+    - **In Class Activities** 
+        - *Giving & Recieving Feedback Challenge*
     - **After Class** - 
-1. Sprint Planning
+1. XXXXXX
     - **In Class Activities** 
-        - *Run a Sprint Planning meeting - Professional engineering teams do
-    - **After Class** - 1) finish your user interview script, 2) try and schedule interviews with people or organizations affected by your problem area. We'll do a more formal reach out at the end of next class 3) read this [email charter (5 min)](http://www.emailcharter.org/)
-1. Email Fundamentals
-    - **In Class Activities** 
-        - *Professional Email Challenge* - Masterful product developers are experts at communicating with people inside and outside their organization. Students are required to complete a simulation in which they will reply ~10 email prompts using professional business communication standards outlined in [these slides](https://docs.google.com/presentation/d/18TCD_bh5rBBMyT2NvWj0roGJodb8UzHyj2yaPbnkNNM/edit#slide=id.p). These prompts mimic emails you will receive and send throughout their career and in future classes of this term. Student emails will be evaluated based on their how actionable, concise and appreciative they. Assignment will be given in class.
+        - *Professional Email Challenge* .
     - **After Class** - 1) get feedback from a peer on your email drafts 2) email a few people to conduct a user interview with them
 1. Rejection Therapy - User Interview Lab
     - **In Class Activities** 
