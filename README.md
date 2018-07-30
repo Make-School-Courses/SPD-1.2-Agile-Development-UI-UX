@@ -13,7 +13,7 @@ Total Out-of-Class Hours: 75 hours <br>
 Total Hours: 112.5 hours <br>
 Units:  3 units <br>
 Delivery Method:  Residential <br>
-Class Sessions:  14 classes, 7 labs 
+Class Sessions:  14 classes, plus 7 coaching meetings and 24 huddles
 
 ## Prerequisites:  
 
@@ -57,62 +57,56 @@ To pass this course you must meet the following requirements:
 1. Problem Ideation & Intro to SPD 1.2
     - **Before Class** - think of problems in the world that could be solved with technology
     - **In Class Activities** - 
-        - *"Problem Area" Brainstorm & Pitch creation* - In class, we'll brainstorm problems areas and product ideas for our term 2 SPD project. You'll also hone your "pitch" for your idea that you will use to convince someone to work with you. This term, we'll work on projects in pairs instead of building an app or website on our own.
+        - *"Problem Area" Brainstorm & Pitch creation* - In class, we'll brainstorm problems areas and product ideas for our term 2 SPD project. You'll also hone your "pitch" for your idea that you will use to convince someone to work with you. This term, we'll work on projects in pairs instead of building an app or website on our own. Next class you'll find a partner.
     - **After Class** - 1) Work on your pitch of your product idea, we'll give formal pitches and find partners during the next class 2) try and find a partner to work on your project with. 3) Conduct user interviews to hone and validate your idea
 1. Pitching, Pair Formation, Wireframing
     - **In Class Activities** - 
-        -  *Product Pitches* - Students will pitch their product idea (both verbally and through text) and self select into partner pairs. This is a great exercise in persuasion and collaboration.
+        -  *Product Pitches* - Students will pitch their product idea (both verbally and through text) and self select into partner pairs. This is a great exercise to practice persuasive communication.
         -  **Draft Wireframe - Create a wireframe for your app. As we learned last term, it's critical to user test this wireframe to ensure that it is intuitive and meets user needs.
     - **After Class** - 1) conduct user interviews for your idea 2) get feedback on your wireframe
 1. Wireframe feedback & UI/UX intro
     - **In Class Activities** 
-        - *Giving & Recieving Feedback Challenge*
-    - **After Class** - 
-1. Spring Planning
+        - *Giving & Recieving Feedback Challenge* - So far, we've mostly build products by ourselves. Now we are introducing a critical component to professional development: giving an recieving feedback from peers. While giving feedback may seem simple, masterful delivery of feedback results in the recipient feeling inspired, encouraged, and a sense of ownership over their work. We'll practice giving and recieving feedback on our wireframes and also cover the most time-efficient ways to ask for help. This skill builds off of the previous professional communication content from the previous term and will build into the teamwork curriculum in term 3.
+    - **After Class** - give and get feedback on your wireframe from two peers
+1. Spring 1 Planning & Team Meetings
     - **In Class Activities** 
-        - *Sprint Planning* - You and your partner will plan a "Sprint," the industry term for a set period of work to accomplish particular tasks. Professional engineering teams conduct sprint planning to prioritize features and bugs, estimate times to complete tasks, and address any other issues the team faces.
+        - *Sprint Planning* - You and your partner will plan a "Sprint," the industry term for a set period of time to accomplish particular engineering tasks. Professional engineering teams conduct "sprint planning" to prioritize features and bugs, estimate times to complete tasks (also known as "tickets"), and address any other issues the team faces. Throughout the rest of this term, you and your partner will conduct 3 sprints to build your product idea.
     - **After Class** - 1) execute your sprint with your project partner
 1. Mock Ups
     - **In Class Activities** 
-        - *User Interview Challenge (Rejection Therapy)* - Each student will "get out of the building" to conduct actual user interviews. Interviewees may include someone you randomly approach on streets, someone from an organization related to your problem area whom you "cold call".  These interviews will further develop your understanding of your problem space. Building something that matters requires resillience. Many will say "no" to your interview request. Stay resillient! As you conduct interviews, Remember that your thinking about the problem will adapt as you gain more data. Remember to rely on more than one person's perspective.  Some students may conduct interviews prior to class.
-    - **After Class** - 1) add notes about your experinece and learnings conducting user interviews to your draft blog post
-1. Engaging MS Partners & Industry Mentors & Professionals
+        - *Developing a Digital Mockups* - So far, we've used wireframes to mock up our app designs. Now, we're making our design digital. You'll learn variety of design prototyping tools to design your apps.
+    - **After Class** 
+1. Sprint 1 Retrospective and Sprint 2 Planning
     - **In Class Activities**   
-        - *ICon (Industry Contact) Challenge* - Students must connect and meet with a professional engineer to learn about their work, product development process, and to get feedback on their code. They can do so through Make School’s [list of volunteer mentors](https://docs.google.com/spreadsheets/d/1PUffTZwaYVe3EWcCqF_2czeDV0KsEEjJzt-SIyziZVY/edit#gid=0). In class we'll discuss professional communication strategy and each draft our own reach-out email. This content builds off of the Professional Risk Challenge and Email Simulation, and will build into the Cold Emails content in later terms. Students must successfully connect with someone in industry - the final exam will ask you about your contact and what you learned.
-    - **After Class** - 1) email your industry contact and set up a call. If they don't respond after three days reping. If they don't respond after three reach out attempts, select another mentor and repeat! 2) after your call, add notes on what you've learnred to your draft blog post.
-1. Procrastination & Work Life Balance
+        - *Sprint Retrospectives* - Each Sprint ends with a "Sprint Retrospective" in which teammates reflect on their previous sprint's performance, discuss any team issues that arose, and add new "tickets" to the backlog. You can think of "Sprint Planning" as deciding what to build and the "Sprint Retrospective" as reflecting on how the team can collaborate better.
+        - *Sprint 2 Planning* - Time to plan your next sprint!
+    - **After Class** - 
+1. Industry Contacts
     - **In Class Activities**   
-        - *Habit Formation Challenge* - How can you beat procrastination? Students are required to complete the Habit Planner Worksheet to reflect on current habits and design new work habits using Dr. BJ Fogg’s [tiny habits method](https://docs.google.com/document/d/17ED5byHHeYsJhF15cLZzrC7da1HbmdDoBCS1maCbBQE/edit). Students will work with their coach to reflect on habit adoption. Students must successfully adopt or change one habit - the final exam will ask you about your habit and how you adopted it. These habits will be the foundation of your productivity for years to come.
-    - **After Class** - 1) plan to execute your new work habit over the following weeks 2) consult your coach on the content of your habit planner worksheet your habit of choice.
-1. Networking Events & Professionalism
+        - *Industry Contacts Challenge #2* - Students will connect with an industry professional, this time, to get feedback on their app and design. We'll cover how to strategicially make the most time out of your meeting, hacks to finding contact information, the ingredients of a stellar thank you note, and much more.
+    - **After Class** - 1) 
+1. UI Layout and Grid System
     - **In Class Activities** 
-        - *Networking Simulation* - Networking events are incredible opportunities to get advice and feedback from professional engineers. In class, we'll simulate the dynamics of a professional networking event - entering and leaving conversations, exchanging business cards, explaining Make School, sparking conversation. In no time you'll have a solid strategy to make use of San Francisco's many meetups and events. Who knows, you may meet your future employer. Content of this exercise builds into the career prep curriculum.
+        - *Networking Simulation* -
     - **After Class** - sign up for one of these networking events
-1. Reflective Best Selt
+1. Sprint Retrospective
     - **In Class Activities** 
-        - *Reflective Best Self* activity - what are your superpowers as an up and coming professional engineer? This activity provides "feedback to participants about who they are when they are at their best. Participants request positive feedback from significant people in their lives, which they then synthesize into a cumulative portrait of their 'best self.' The exercise can be used as a tool for personal development because it provides valuable insights into the ways a person adds value and makes a contribution". 
+        - *Sprint 2 Retrospective* - do a retrospective on your previous sprint  
+        - *Sprint 3 Planning* - plan your next sprint
     - **After Class** - 1) finish the Reflective Best Self activity and 2) share your content with your coach
-1. Pick Product Idea, User Persona & User Narrative
+1. UI
     - **In Class Activities**  
-        - *Pick your Product Idea* - The time has come! We've collected research from our PEST and Competitive Analysis, from user interviews and feedback from industry contacts. You'll use all this data about the problem space to pick a product idea. The remainder of SPD 1.1 focuses on prototyping techniques, namely writing User Narratives, making Wire Frames and User Stories.
-        - *User Persona* - Creating a user person is often the first step of product development. A User Persona is a representation of the type of persona who will use your product. Imagine it like a profile of the typical demographics, frustrations, and hopes of people who'd benefit from your solution. Writing a user persona helps you get in the mind of whom you are building for. From there you'll be able to start thinking about what your app experinece will look like for them, as captured in our next tool: User Narratives.
-        - *User Narrative* -  User Narratives involves "getting in the user's head" to draft a set of "actions" the user will take upon landing on your app or web page. Where will their eye look first? Where will they click next? Writing out the narrative ensures your site is intutive to the users' needs. Once you have the narrative done, you can then move on to creating a draft of what your site will look like ... also known as a Wireframe. We'll make this wireframe in the next class.
-    - **After Class** - 1) Finish your User Persona and User Narrative 2) add both the User Personal and User Narrative to your blog post draft.
-1. Wireframes & Entity Relationship Diagrams (ERDs)
+        - *Pick*
+    - **After Class** - 
+1. UI 
     - **In Class Activities**  
-        - *Make a Wireframe* - a Wireframe is a skeletal blueprint of your app. Built off the User Narrative, Wireframes are often drawn on paper as a quick prototype of your app. "Wireframes depicts the page layout or arrangement of the website’s content, including navigational systems, interface elements, and how they work together. The wireframe usually lacks typographic style, color, or graphics, since the main focus lies in functionality, behavior, and priority of content. Wireframes can be pencil drawings or sketches on a whiteboard, or they can be produced by means of a broad array of free or commercial software applications". Wireframes are ment to be rough sketches that are iterated upon. 
-        - *Make an Entity Relationship Diagram* - Entity Relationship Diagrams (ERDs), take your individual wireframe panes and models how they connect to each other. ERDs takes all your wireframe pages (known as "entities") and maps out the different "actions" users can take to get from one entity to another. With the ERD, you'll have a clear vision for the app you will soon build in the week long "intensive" at the end of this term. 
+        - *Make*
     - **After Class** - 1) Finish your Wireframe and ERD 2) add both the Wireframe and ERD to your blog post draft.
-1. Agile Methodology & Backlog of User Stories
-    - **In Class Activities** 
-        - *Paper Plane activity" - this activity simulates Agile Development: the iterative process by which software developers make products and prioritize features. The activity will help frame the work ahead.
-        - *Create a backlog of User Stories" - User Narratives are the set of actions a user will take once they land on your site. User Stories are one particular action within that narrative set. Before building their app, developers list out all the user stories in order to prioritize which should be built first. Once complete, you'll be ready to build this app or another app idea during the week long intensive.
-    - **After Class** - 1) Finish your backlog of User Stories 2) Finish your blog post and submit it here.
 1. Assessment: Test & submit 1000 word blogpost
     - **In Class Activities**
-        - *Summative Assessment* - you'll take an assessment that cover the content from SPD 1.1. I recommend you review class slides and understand the major ideas taught in each activity. Don't sweat it too much. Those who miss this in-class assessment have the option to retake it the the Wednesday during the weeklong intensity.
-        - *Peer review and publish blog posts* - class will close with us peer editing each other's blog posts and hitting PUBLISH! We'll then celebrate with popcorn or whatever treat Dan brings in ;)
+        - *S*
     - **After Class** - Relax. Pat yourself on the back for your hard work! Get ready to build and ship your product idea (or a new product idea) during next week's product intensive.
+
 
 ## Huddle Schedule - daily morning group meeting
 * Week 1: Group Formation - Get to know your fellow classmates and establish a foundation of community
