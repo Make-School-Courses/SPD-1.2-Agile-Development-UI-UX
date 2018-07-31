@@ -56,12 +56,13 @@ To pass this course you must meet the following requirements:
 
 13 planned lessons (7 weeks x 2 meetings per week -~1 holiday)
 
-1. Problem Ideation & Intro to SPD 1.2
+## Problem Ideation
     - **Before Class** - think of problems in the world that could be solved with technology
     - **In Class Activities** - 
         - *"Problem Area" Brainstorm & Pitch creation* - In class, we'll brainstorm problems areas and product ideas for our term 2 SPD project. You'll also hone your "pitch" for your idea that you will use to convince someone to work with you. This term, we'll work on projects in pairs instead of building an app or website on our own. Next class you'll find a partner.
     - **After Class** - 1) Work on your pitch of your product idea, we'll give formal pitches and find partners during the next class 2) try and find a partner to work on your project with. 3) Conduct user interviews to hone and validate your idea
-1. Pitching, Pair Formation, Wireframing
+
+## Pitching, Pair Formation, Wireframing
     - **In Class Activities** - 
         -  *Product Pitches* - Students will pitch their product idea (both verbally and through text) and self select into partner pairs. This is a great exercise to practice persuasive communication.
         -  **Draft Wireframe - Create a wireframe for your app. As we learned last term, it's critical to user test this wireframe to ensure that it is intuitive and meets user needs.
