@@ -78,6 +78,7 @@ To pass this course you must meet the following requirements:
    - **In Class Activities** 
      - *Sprint Planning* - You and your partner will plan a "Sprint," the industry term for a set period of time to accomplish particular engineering tasks. Professional engineering teams conduct "sprint planning" to prioritize features and bugs, estimate times to complete tasks (also known as "tickets"), and address any other issues the team faces. Throughout the rest of this term, you and your partner will conduct 3 sprints to build your product idea.
    - **After Class** - 1) execute your sprint with your project partner
+
 ## 5. Mock Ups
    - **In Class Activities** 
         - *Developing a Digital Mockups* - So far, we've used wireframes to mock up our app designs. Now, we're making our design digital. You'll learn variety of design prototyping tools to design your apps.
