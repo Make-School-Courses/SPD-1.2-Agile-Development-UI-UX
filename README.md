@@ -60,7 +60,7 @@ To pass this course you must meet the following requirements:
   - **Before Class** - think of problems in the world that could be solved with technology
   - **In Class Activities** - 
     - *"Problem Area" Brainstorm & Pitch creation* - In class, we'll brainstorm problems areas and product ideas for our term 2 SPD project. You'll also hone your "pitch" for your idea that you will use to convince someone to work with you. This term, we'll work on projects in pairs instead of building an app or website on our own. Next class you'll find a partner.
-    - **After Class** - 1) Work on your pitch of your product idea, we'll give formal pitches and find partners during the next class 2) try and find a partner to work on your project with. 3) Conduct user interviews to hone and validate your idea
+  - **After Class** - 1) Work on your pitch of your product idea, we'll give formal pitches and find partners during the next class 2) try and find a partner to work on your project with. 3) Conduct user interviews to hone and validate your idea
 
 ## 2. Pitching, Pair Formation, Wireframing
   - **In Class Activities** - 
@@ -88,7 +88,7 @@ To pass this course you must meet the following requirements:
    - **In Class Activities**   
         - *Sprint Retrospectives* - Each Sprint ends with a "Sprint Retrospective" in which teammates reflect on their previous sprint's performance, discuss any team issues that arose, and add new "tickets" to the backlog. You can think of "Sprint Planning" as deciding what to build and the "Sprint Retrospective" as reflecting on how the team can collaborate better.
         - *Sprint 2 Planning* - Time to plan your next sprint with your partner!
-    - **After Class** - 
+    - **After Class** - 1) execute your sprint with your project partner.
 
 ## 7. Industry Contacts
    - **In Class Activities**   
@@ -100,7 +100,7 @@ To pass this course you must meet the following requirements:
         - *Feedback, Term Project** - spend 10 min to give feedback on a peer's term project mockup designed in a previous class
         - *LAYOUT AND GRID SYSTEM ACTIVITY* - Complete an in-class activity focused on effective grid design.
         - *Feedback, Class Activity* - spend 10 min to give and get feedback on activity
-   - **After Class** - sign up for one of these networking events. Apply grid system to your project. Projects will be reviewed in a future class.  
+   - **After Class** - 1) Apply grid system to your project. Projects will be reviewed in a future class.  
    
 ## 9. Sprint Retrospective
    - **In Class Activities** 
@@ -113,14 +113,14 @@ To pass this course you must meet the following requirements:
         - *Feedback, Term Project* - Spend 10 mins to give and get feedback on the grid system used in your term project. 
         - *TYPOGRAPHY ACTIVITY* - In class examples 
         - *Feedback, class activity* - spend 10 min to give and get feedback on class activity. 
-    - **After Class** - Apply concepts from class to your project. These will reviewed in a future class.  
+    - **After Class** - 1) Apply concepts from class to your project. These will reviewed in a future class.  
 
 ## 11. Design: Color 
    - **In Class Activities**  
         - *Feedback, Term Project* - Spend 10 mins to give feedback on the typography used in your term project. 
         - *COLOR ACTIVITY* - In class examples with slides.
         - *Feedback* - spend 10 min to give and get feedback on the in class activity. 
-    - **After Class** - 1) Finish your Wireframe and ERD 2) add both the Wireframe and ERD to your blog post draft. Apply the concepts from class to your project. 
+    - **After Class** - 1) Apply concepts from class to your project. These will reviewed in a future class.  2) Write and finish your blog post ... assignment linked above. Submit the blog post at the 
 
 ## 12. Assessment: Test & submit 1000 word blogpost. 
    - **In Class Activities**
