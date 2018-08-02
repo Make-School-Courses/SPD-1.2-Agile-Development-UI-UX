@@ -57,25 +57,25 @@ To pass this course you must meet the following requirements:
 13 planned lessons (7 weeks x 2 meetings per week -~1 holiday)
 
 ## 1. Problem Ideation
-    - **Before Class** - think of problems in the world that could be solved with technology
-    - **In Class Activities** - 
-        - *"Problem Area" Brainstorm & Pitch creation* - In class, we'll brainstorm problems areas and product ideas for our term 2 SPD project. You'll also hone your "pitch" for your idea that you will use to convince someone to work with you. This term, we'll work on projects in pairs instead of building an app or website on our own. Next class you'll find a partner.
+  - **Before Class** - think of problems in the world that could be solved with technology
+  - **In Class Activities** - 
+    - *"Problem Area" Brainstorm & Pitch creation* - In class, we'll brainstorm problems areas and product ideas for our term 2 SPD project. You'll also hone your "pitch" for your idea that you will use to convince someone to work with you. This term, we'll work on projects in pairs instead of building an app or website on our own. Next class you'll find a partner.
     - **After Class** - 1) Work on your pitch of your product idea, we'll give formal pitches and find partners during the next class 2) try and find a partner to work on your project with. 3) Conduct user interviews to hone and validate your idea
 
 ## 2. Pitching, Pair Formation, Wireframing
-    - **In Class Activities** - 
-        -  *Product Pitches* - Students will pitch their product idea (both verbally and through text) and self select into partner pairs. This is a great exercise to practice persuasive communication.
-        -  **Draft Wireframe - Create a wireframe for your app. As we learned last term, it's critical to user test this wireframe to ensure that it is intuitive and meets user needs.
-    - **After Class** - 1) conduct user interviews for your idea 2) get feedback on your wireframe
+  - **In Class Activities** - 
+    -  *Product Pitches* - Students will pitch their product idea (both verbally and through text) and self select into partner pairs. This is a great exercise to practice persuasive communication.
+    -  *Draft Wireframe* - Create a wireframe for your app. As we learned last term, it's critical to user test this wireframe to ensure that it is intuitive and meets user needs.
+    - *After Class* - 1) conduct user interviews for your idea 2) get feedback on your wireframe
 
 ## 3. Wireframe feedback & UI/UX intro
-    - **In Class Activities** 
-        - *Giving & Recieving Feedback Challenge* - So far, we've mostly build products by ourselves. Now we are introducing a critical component to professional development: giving an recieving feedback from peers. While giving feedback may seem simple, masterful delivery of feedback results in the recipient feeling inspired, encouraged, and a sense of ownership over their work. We'll practice giving and recieving feedback on our wireframes and also cover the most time-efficient ways to ask for help. This skill builds off of the previous professional communication content from the previous term and will build into the teamwork curriculum in term 3.
-        - *Paper Prototyping and Testing* Students mock up projects with paper and test with users. Building apps with paper is fast, easy and allows for fast ideation. 
+  - **In Class Activities** 
+    - *Giving & Recieving Feedback Challenge* - So far, we've mostly build products by ourselves. Now we are introducing a critical component to professional development: giving an recieving feedback from peers. While giving feedback may seem simple, masterful delivery of feedback results in the recipient feeling inspired, encouraged, and a sense of ownership over their work. We'll practice giving and recieving feedback on our wireframes and also cover the most time-efficient ways to ask for help. This skill builds off of the previous professional communication content from the previous term and will build into the teamwork curriculum in term 3.
+    - *Paper Prototyping and Testing* Students mock up projects with paper and test with users. Building apps with paper is fast, easy and allows for fast ideation. 
     - **After Class** - give and get feedback on your wireframe from two peers, and two people who are NOT Make School students. Test with people who are in your target demographic and have not seen your app yet. 
 Spring 1 Planning & Team Meetings
     - **In Class Activities** 
-        - *Sprint Planning* - You and your partner will plan a "Sprint," the industry term for a set period of time to accomplish particular engineering tasks. Professional engineering teams conduct "sprint planning" to prioritize features and bugs, estimate times to complete tasks (also known as "tickets"), and address any other issues the team faces. Throughout the rest of this term, you and your partner will conduct 3 sprints to build your product idea.
+      - *Sprint Planning* - You and your partner will plan a "Sprint," the industry term for a set period of time to accomplish particular engineering tasks. Professional engineering teams conduct "sprint planning" to prioritize features and bugs, estimate times to complete tasks (also known as "tickets"), and address any other issues the team faces. Throughout the rest of this term, you and your partner will conduct 3 sprints to build your product idea.
     - **After Class** - 1) execute your sprint with your project partner
 1. Mock Ups
     - **In Class Activities** 
