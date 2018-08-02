@@ -77,46 +77,53 @@ To pass this course you must meet the following requirements:
 ## 4. Spring 1 Planning & Team Meetings
    - **In Class Activities** 
      - *Sprint Planning* - You and your partner will plan a "Sprint," the industry term for a set period of time to accomplish particular engineering tasks. Professional engineering teams conduct "sprint planning" to prioritize features and bugs, estimate times to complete tasks (also known as "tickets"), and address any other issues the team faces. Throughout the rest of this term, you and your partner will conduct 3 sprints to build your product idea.
-   - **After Class** - 1) execute your sprint with your project partner
+   - **After Class** - 1) execute your sprint with your project partner.
 
 ## 5. Mock Ups
    - **In Class Activities** 
-        - *Developing a Digital Mockups* - So far, we've used wireframes to mock up our app designs. Now, we're making our design digital. You'll learn variety of design prototyping tools to design your apps.
+        - *Developing a Digital Mockups* - So far, we've used wireframes to mock up our app designs. Now, after much testing, we will making our design digital. You'll learn variety of design prototyping tools to design your apps.
     - **After Class** - Conduct a user test with your software mockup. You must record test session with audio. Use Quicktime/Screen Capture. You'll be including these videos with your blogpost. 
+
 ## 6. Sprint 1 Retrospective and Sprint 2 Planning
    - **In Class Activities**   
         - *Sprint Retrospectives* - Each Sprint ends with a "Sprint Retrospective" in which teammates reflect on their previous sprint's performance, discuss any team issues that arose, and add new "tickets" to the backlog. You can think of "Sprint Planning" as deciding what to build and the "Sprint Retrospective" as reflecting on how the team can collaborate better.
-        - *Sprint 2 Planning* - Time to plan your next sprint!
+        - *Sprint 2 Planning* - Time to plan your next sprint with your partner!
     - **After Class** - 
+
 ## 7. Industry Contacts
    - **In Class Activities**   
         - *Industry Contacts Challenge #2* - Students will connect with an industry professional, this time, to get feedback on their app and design. We'll cover how to strategicially make the most time out of your meeting, hacks to finding contact information, the ingredients of a stellar thank you note, and much more.
-    - **After Class** - 1) 
+    - **After Class** - 1) send an email to reach out to an industry contact for feedback on your product, advice on how to be a successful engineer. You can schedule a call or meet in person.
+
 ## 8. Design: UI Layout and Grid System - Discuss and present grid systems. 
    - **In Class Activities** 
-        - *ACTIVITY* -
-        - *Feedback* - spend 10 min to give and get feedback on activity
+        - *Feedback, Term Project** - spend 10 min to give feedback on a peer's term project mockup designed in a previous class
+        - *LAYOUT AND GRID SYSTEM ACTIVITY* - Complete an in-class activity focused on effective grid design.
+        - *Feedback, Class Activity* - spend 10 min to give and get feedback on activity
    - **After Class** - sign up for one of these networking events. Apply grid system to your project. Projects will be reviewed in a future class.  
    
 ## 9. Sprint Retrospective
-    - **In Class Activities** 
+   - **In Class Activities** 
         - *Sprint 2 Retrospective* - do a retrospective on your previous sprint  
         - *Sprint 3 Planning* - plan your next sprint
     - **After Class** - 1) finish the Reflective Best Self activity and 2) share your content with your coach
+
 ## 10. Design: Typography
-    - **In Class Activities** - Explore type with examples
-        - *ACTIVITY* - Spend 10 mins to give feedback on the grid system used in your project. 
-        - *ACTIVITY* - In class examples 
-        - *Feedback* - spend 10 min to give and get feedback on class activity. 
+   - **In Class Activities** - Explore type with examples
+        - *Feedback, Term Project* - Spend 10 mins to give and get feedback on the grid system used in your term project. 
+        - *TYPOGRAPHY ACTIVITY* - In class examples 
+        - *Feedback, class activity* - spend 10 min to give and get feedback on class activity. 
     - **After Class** - Apply concepts from class to your project. These will reviewed in a future class.  
+
 ## 11. Design: Color 
-    - **In Class Activities**  
-        - *ACTIVITY* - Spend 10 mins to give feedback on the typography used in your project. 
-        - *ACTIVITY* - In class examples with slides.
+   - **In Class Activities**  
+        - *Feedback, Term Project* - Spend 10 mins to give feedback on the typography used in your term project. 
+        - *COLOR ACTIVITY* - In class examples with slides.
         - *Feedback* - spend 10 min to give and get feedback on the in class activity. 
     - **After Class** - 1) Finish your Wireframe and ERD 2) add both the Wireframe and ERD to your blog post draft. Apply the concepts from class to your project. 
+
 ## 12. Assessment: Test & submit 1000 word blogpost. 
-    - **In Class Activities**
+   - **In Class Activities**
         - *Assessment* - you'll take an assessment that cover the content from SPD 1.2. I recommend you review class slides and understand the major ideas taught in each activity.Those who miss this in-class assessment have the option to retake it the the Wednesday during the weeklong intensity.
     - **After Class** - Relax. Pat yourself on the back for your hard work! Get ready to build and ship your product idea (or a new product idea) during next week's product intensive.
 
