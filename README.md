@@ -67,12 +67,12 @@ To pass this course you must meet the following requirements:
   - **In Class Activities** 
     - *Giving & Recieving Feedback Challenge* - So far, we've mostly build products by ourselves. Now we are introducing a critical component to professional development: giving an recieving feedback from peers. While giving feedback may seem simple, masterful delivery of feedback results in the recipient feeling inspired, encouraged, and a sense of ownership over their work. We'll practice giving and recieving feedback on our wireframes and also cover the most time-efficient ways to ask for help. This skill builds off of the previous professional communication content from the previous term and will build into the teamwork curriculum in term 3.
     - *Paper Prototyping and Testing* Students mock up projects with paper and test with users. Building apps with paper is fast, easy and allows for fast ideation. 
-    - **After Class** - give and get feedback on your wireframe from two peers, and two people who are NOT Make School students. Test with people who are in your target demographic and have not seen your app yet. 
+  - **After Class** - give and get feedback on your wireframe from two peers, and two people who are NOT Make School students. Test with people who are in your target demographic and have not seen your app yet. 
     
 ## 4. Spring 1 Planning & Team Meetings
    - **In Class Activities** 
      - *Sprint Planning* - You and your partner will plan a "Sprint," the industry term for a set period of time to accomplish particular engineering tasks. Professional engineering teams conduct "sprint planning" to prioritize features and bugs, estimate times to complete tasks (also known as "tickets"), and address any other issues the team faces. Throughout the rest of this term, you and your partner will conduct 3 sprints to build your product idea.
-   - **After Class** - 1) execute your sprint with your project partner.
+  - **After Class** - 1) execute your sprint with your project partner.
 
 ## 5. Mock Ups
    - **In Class Activities** 
@@ -83,12 +83,12 @@ To pass this course you must meet the following requirements:
    - **In Class Activities**   
         - *Sprint Retrospectives* - Each Sprint ends with a "Sprint Retrospective" in which teammates reflect on their previous sprint's performance, discuss any team issues that arose, and add new "tickets" to the backlog. You can think of "Sprint Planning" as deciding what to build and the "Sprint Retrospective" as reflecting on how the team can collaborate better.
         - *Sprint 2 Planning* - Time to plan your next sprint with your partner!
-    - **After Class** - 1) execute your sprint with your project partner.
+   - **After Class** - 1) execute your sprint with your project partner.
 
 ## 7. Industry Contacts
    - **In Class Activities**   
         - *Industry Contacts Challenge #2* - Students will connect with an industry professional, this time, to get feedback on their app and design. We'll cover how to strategicially make the most time out of your meeting, hacks to finding contact information, the ingredients of a stellar thank you note, and much more.
-    - **After Class** - 1) send an email to reach out to an industry contact for feedback on your product, advice on how to be a successful engineer. You can schedule a call or meet in person.
+   - **After Class** - 1) send an email to reach out to an industry contact for feedback on your product, advice on how to be a successful engineer. You can schedule a call or meet in person.
 
 ## 8. Design: UI Layout and Grid System - Discuss and present grid systems. 
    - **In Class Activities** 
@@ -101,14 +101,14 @@ To pass this course you must meet the following requirements:
    - **In Class Activities** 
         - *Sprint 2 Retrospective* - do a retrospective on your previous sprint  
         - *Sprint 3 Planning* - plan your next sprint
-    - **After Class** - 1) finish the Reflective Best Self activity and 2) share your content with your coach
+   - **After Class** - 1) finish the Reflective Best Self activity and 2) share your content with your coach
 
 ## 10. Design: Typography
    - **In Class Activities** - Explore type with examples
         - *Feedback, Term Project* - Spend 10 mins to give and get feedback on the grid system used in your term project. 
         - *TYPOGRAPHY ACTIVITY* - In class examples 
         - *Feedback, class activity* - spend 10 min to give and get feedback on class activity. 
-    - **After Class** - 1) Apply concepts from class to your project. These will reviewed in a future class.  
+   - **After Class** - 1) Apply concepts from class to your project. These will reviewed in a future class.  
 
 ## 11. Design: Color 
    - **In Class Activities**  
@@ -120,7 +120,7 @@ To pass this course you must meet the following requirements:
 ## 12. Assessment: Test & submit 1000 word blogpost. 
    - **In Class Activities**
         - *Assessment* - you'll take an assessment that cover the content from SPD 1.2. I recommend you review class slides and understand the major ideas taught in each activity.Those who miss this in-class assessment have the option to retake it the the Wednesday during the weeklong intensity.
-    - **After Class** - Relax. Pat yourself on the back for your hard work! Get ready to build and ship your product idea (or a new product idea) during next week's product intensive.
+   - **After Class** - Relax. Pat yourself on the back for your hard work! Get ready to build and ship your product idea (or a new product idea) during next week's product intensive.
 
 
 ## Huddle Schedule - daily morning group meeting
