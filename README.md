@@ -77,7 +77,7 @@ To pass this course you must meet the following requirements:
 ## 5. Digital Mock Ups
    - **In Class Activities** 
         - *Developing a Digital Mockups* - So far, we've used wireframes to mock up our app designs. Now, after much testing, we will make our design digital. You'll learn variety of design prototyping tools to design your apps.
-    - **After Class** - Conduct a user test with your software mockup. You must record test session with audio. Use Quicktime/Screen Capture. You'll be including these videos with your blogpost. 
+   - **After Class** - Conduct a user test with your software mockup. You must record test session with audio. Use Quicktime/Screen Capture. You'll be including these videos with your blogpost. 
 
 ## 6. Sprint 1 Retrospective and Sprint 2 Planning
    - **In Class Activities**   
