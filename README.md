@@ -19,22 +19,17 @@ Class Sessions:  14 classes, plus 7 coaching meetings and 24 huddles
 
 ## Prerequisites:  
 
-None <br>
+SPD 1.1 <br>
 
 ## Learning Objectives or Competencies
 
 Students by the end of the course will be able to ...
 
 1. Conduct Sprint Planning and Retrospectives to empower effective collaboration (PLO 3, PLO 4)
-    - Assessment: Summative Assessment
 1. Design beautiful, practical, and intuitive apps using the leading UI/UX practices (PLO 3)
-    - Assessment: Summative Assessment
 1. Use agile methodology to iterate your app design as informed by user interviews and feedback (PLO 3)
-    - Assessment: Summative Assessment
 1. Demonstrate a diverse and individualized set of professional skills necessary to succeed while at Make School and beyond. (PLO 1) 
-    - Assessment: Summative Assessment
 1. Consistently practice professional business communication that is actionable with an appreciative tone. (PLO 4)
-    - Assessment: Final Blog Post; Rubric: [Written Communication Rubric (AAC&U Value Rubric)](https://drive.google.com/file/d/1Q7kd-JTwd8COOGNeSD43UoAivwF5_dWZ/view?usp=sharing)
 
 ## Tutorials & Projects
 
@@ -65,8 +60,8 @@ To pass this course you must meet the following requirements:
 ## 2. Pitching, Pair Formation, Wireframing
   - **In Class Activities** - 
     -  *Product Pitches* - Students will pitch their product idea (both verbally and through text) and self select into partner pairs. This is a great exercise to practice persuasive communication.
-    -  *Draft Wireframe* - Create a wireframe for your app. As we learned last term, it's critical to user test this wireframe to ensure that it is intuitive and meets user needs.
-  - **After Class** - 1) conduct user interviews for your idea 2) get feedback on your wireframe
+    -  *Draft User Journey and Wireframe* - Create a [Wireframe](https://docs.google.com/presentation/d/1ALBDn3bIycimyvnB6fEOAMadDOCA4wmoOO9Z-lpBRsM/edit#slide=id.p) and [User Journey](https://docs.google.com/presentation/d/1UKVsUOCxQPNT3P42cvsTYxhNl7lpsDHjJew_a5K1JaM/edit#slide=id.g16bb89fe2b_0_72) for your app. As we learned last term (see slides in links to the left), it's critical to user test this wireframe to ensure that it is intuitive and meets user needs.
+  - **After Class** - 1) conduct user interviews for your idea 2) get feedback on your wireframe by "testing it" with potential users
 
 ## 3. Wireframe feedback & UI/UX intro
   - **In Class Activities** 
@@ -81,7 +76,7 @@ To pass this course you must meet the following requirements:
 
 ## 5. Mock Ups
    - **In Class Activities** 
-        - *Developing a Digital Mockups* - So far, we've used wireframes to mock up our app designs. Now, after much testing, we will making our design digital. You'll learn variety of design prototyping tools to design your apps.
+        - *Developing a Digital Mockups* - So far, we've used wireframes to mock up our app designs. Now, after much testing, we will make our design digital. You'll learn variety of design prototyping tools to design your apps.
     - **After Class** - Conduct a user test with your software mockup. You must record test session with audio. Use Quicktime/Screen Capture. You'll be including these videos with your blogpost. 
 
 ## 6. Sprint 1 Retrospective and Sprint 2 Planning
