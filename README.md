@@ -67,6 +67,7 @@ To pass this course you must meet the following requirements:
 
 ## 3. Design Thinking: UX intro & User Tests ...  Wireframe Feedback - BRAUS, Concepts
   - **In Class Activities** 
+    - *Teacher Talk: Into to User Experience & User Testing*
     - *Giving & Recieving Feedback Challenge* - So far, we've mostly build products by ourselves. Now we are introducing a critical component to professional development: giving an recieving feedback from peers. While giving feedback may seem simple, masterful delivery of feedback results in the recipient feeling inspired, encouraged, and a sense of ownership over their work. We'll practice giving and recieving feedback on our wireframes and also cover the most time-efficient ways to ask for help. This skill builds off of the previous professional communication content from the previous term and will build into the teamwork curriculum in term 3.
     - *Paper Prototyping and Testing* Students mock up projects with paper and test with users. Building apps with paper is fast, easy and allows for fast ideation. 
   - **After Class** - give and get feedback on your wireframe from two peers, and two people who are NOT Make School students. Test with people who are in your target demographic and have not seen your app yet. 
@@ -88,6 +89,13 @@ To pass this course you must meet the following requirements:
         - *Sprint 2 Planning* - Time to plan your next sprint with your partner!
    - **After Class** - 1) execute your sprint with your project partner.
 
+
+## 7. Git & GitHub Pt 2 - ALAN
+   - **In Class Activities**   
+        - *Industry Contacts Challenge #2* - Students will connect with an industry professional, this time, to get feedback on their app and design. We'll cover how to strategicially make the most time out of your meeting, hacks to finding contact information, the ingredients of a stellar thank you note, and much more.
+   - **After Class** - 1) send an email to reach out to an industry contact for feedback on your product, advice on how to be a successful engineer. You can schedule a call or meet in person.
+
+
 ## 7. Industry Contacts XXX GitHub Pt 2 - ALAN
    - **In Class Activities**   
         - *Industry Contacts Challenge #2* - Students will connect with an industry professional, this time, to get feedback on their app and design. We'll cover how to strategicially make the most time out of your meeting, hacks to finding contact information, the ingredients of a stellar thank you note, and much more.
@@ -100,7 +108,7 @@ To pass this course you must meet the following requirements:
         - *Feedback, Class Activity* - spend 10 min to give and get feedback on activity
    - **After Class** - 1) Apply grid system to your project. Projects will be reviewed in a future class.  
    
-## 9. Sprint Retrospective - DAN
+## 9. Sprint 2 Retrospective & Industry Contacts pt 2 - DAN
    - **In Class Activities** 
         - *Sprint 2 Retrospective* - do a retrospective on your previous sprint  
         - *Sprint 3 Planning* - plan your next sprint
