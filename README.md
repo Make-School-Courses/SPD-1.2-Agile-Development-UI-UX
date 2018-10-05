@@ -65,7 +65,7 @@ To pass this course you must meet the following requirements:
     -  *Draft User Journey and Wireframe* - Create a [Wireframe](https://docs.google.com/presentation/d/1ALBDn3bIycimyvnB6fEOAMadDOCA4wmoOO9Z-lpBRsM/edit#slide=id.p) and [User Journey](https://docs.google.com/presentation/d/1UKVsUOCxQPNT3P42cvsTYxhNl7lpsDHjJew_a5K1JaM/edit#slide=id.g16bb89fe2b_0_72) for your app. As we learned last term (see slides in links to the left), it's critical to user test this wireframe to ensure that it is intuitive and meets user needs.
   - **After Class** - 1) conduct user interviews for your idea 2) get feedback on your wireframe by "testing it" with potential users
 
-## 3. Design Thinking: UX intro & Wireframe Feedback - BRAUS, Concepts
+## 3. Design Thinking: UX intro, User Tests ...  Wireframe Feedback - BRAUS, Concepts
   - **In Class Activities** 
     - *Giving & Recieving Feedback Challenge* - So far, we've mostly build products by ourselves. Now we are introducing a critical component to professional development: giving an recieving feedback from peers. While giving feedback may seem simple, masterful delivery of feedback results in the recipient feeling inspired, encouraged, and a sense of ownership over their work. We'll practice giving and recieving feedback on our wireframes and also cover the most time-efficient ways to ask for help. This skill builds off of the previous professional communication content from the previous term and will build into the teamwork curriculum in term 3.
     - *Paper Prototyping and Testing* Students mock up projects with paper and test with users. Building apps with paper is fast, easy and allows for fast ideation. 
