@@ -51,7 +51,7 @@ To pass this course you must meet the following requirements:
 
 13 planned lessons (7 weeks x 2 meetings per week -~1 holiday)
 
-## 1. Problem Ideation
+## 1. Problem Ideation - DAN
   - **Before Class** - think of problems in the world that could be solved with technology
   - **In Class Activities** - 
     - Review your project from last term
@@ -59,67 +59,67 @@ To pass this course you must meet the following requirements:
     - *"Problem Area" Brainstorm & Pitch creation* - In class, we'll brainstorm problems areas and product ideas for our term 2 SPD project. You'll also hone your "pitch" for your idea that you will use to convince someone to work with you. This term, we'll work on projects in pairs instead of building an app or website on our own. Next class you'll find a partner.
   - **After Class** - 1) Work on your pitch of your product idea, we'll give formal pitches and find partners during the next class 2) try and find a partner to work on your project with. 3) Conduct user interviews to hone and validate your idea
 
-## 2. Pitching, Pair Formation, Wireframing
+## 2. Pitching, Pair Formation, Wireframing - DAN
   - **In Class Activities** - 
     -  *Product Pitches* - Students will pitch their product idea (both verbally and through text) and self select into partner pairs. This is a great exercise to practice persuasive communication.
     -  *Draft User Journey and Wireframe* - Create a [Wireframe](https://docs.google.com/presentation/d/1ALBDn3bIycimyvnB6fEOAMadDOCA4wmoOO9Z-lpBRsM/edit#slide=id.p) and [User Journey](https://docs.google.com/presentation/d/1UKVsUOCxQPNT3P42cvsTYxhNl7lpsDHjJew_a5K1JaM/edit#slide=id.g16bb89fe2b_0_72) for your app. As we learned last term (see slides in links to the left), it's critical to user test this wireframe to ensure that it is intuitive and meets user needs.
   - **After Class** - 1) conduct user interviews for your idea 2) get feedback on your wireframe by "testing it" with potential users
 
-## 3. Design Thinking: UX intro & Wireframe Feedback
+## 3. Design Thinking: UX intro & Wireframe Feedback - BRAUS, Concepts
   - **In Class Activities** 
     - *Giving & Recieving Feedback Challenge* - So far, we've mostly build products by ourselves. Now we are introducing a critical component to professional development: giving an recieving feedback from peers. While giving feedback may seem simple, masterful delivery of feedback results in the recipient feeling inspired, encouraged, and a sense of ownership over their work. We'll practice giving and recieving feedback on our wireframes and also cover the most time-efficient ways to ask for help. This skill builds off of the previous professional communication content from the previous term and will build into the teamwork curriculum in term 3.
     - *Paper Prototyping and Testing* Students mock up projects with paper and test with users. Building apps with paper is fast, easy and allows for fast ideation. 
   - **After Class** - give and get feedback on your wireframe from two peers, and two people who are NOT Make School students. Test with people who are in your target demographic and have not seen your app yet. 
     
-## 4. Sprint 1 Planning & Team Meetings
+## 4. Sprint 1 Planning & Team Meetings - BRAUS
    - **In Class Activities** 
      - *Sprint Planning* - You and your partner will plan a "Sprint," the industry term for a set period of time to accomplish particular engineering tasks. Professional engineering teams conduct "sprint planning" to prioritize features and bugs, estimate times to complete tasks (also known as "tickets"), and address any other issues the team faces. Throughout the rest of this term, you and your partner will conduct 3 sprints to build your product idea.
   - **After Class** - 1) execute your sprint with your project partner 2) download the digital mockup software for next class's in-class activity
 
-## 5. Digital Mock Ups
+## 5. Digital Mock Ups - MITCHELL
    - **In Class Activities** 
         - *Developing a Digital Mockups* - So far, we've used wireframes to mock up our app designs. Now, after much testing, we will make our design digital. You'll learn variety of design prototyping tools to design your apps.
    - **After Class** - Conduct a user test with your software mockup. You must record test session with audio. Use Quicktime/Screen Capture. You'll be including these videos with your blogpost. 
 
-## 6. Sprint 1 Retrospective and Sprint 2 Planning
+## 6. Sprint 1 Retrospective and Sprint 2 Planning - BRAUS
    - **In Class Activities**   
         - *Sprint Retrospectives* - Each Sprint ends with a "Sprint Retrospective" in which teammates reflect on their previous sprint's performance, discuss any team issues that arose, and add new "tickets" to the backlog. You can think of "Sprint Planning" as deciding what to build and the "Sprint Retrospective" as reflecting on how the team can collaborate better.
         - *Sprint 2 Planning* - Time to plan your next sprint with your partner!
    - **After Class** - 1) execute your sprint with your project partner.
 
-## 7. Industry Contacts
+## 7. Industry Contacts XXX GitHub Pt 2 - ALAN
    - **In Class Activities**   
         - *Industry Contacts Challenge #2* - Students will connect with an industry professional, this time, to get feedback on their app and design. We'll cover how to strategicially make the most time out of your meeting, hacks to finding contact information, the ingredients of a stellar thank you note, and much more.
    - **After Class** - 1) send an email to reach out to an industry contact for feedback on your product, advice on how to be a successful engineer. You can schedule a call or meet in person.
 
-## 8. Design: UI Layout and Grid System - Discuss and present grid systems. 
+## 8. Design: UI Layout and Grid System - Discuss and present grid systems.  - MITCHELL
    - **In Class Activities** 
         - *Feedback, Term Project** - spend 10 min to give feedback on a peer's term project mockup designed in a previous class
         - *LAYOUT AND GRID SYSTEM ACTIVITY* - Complete an in-class activity focused on effective grid design.
         - *Feedback, Class Activity* - spend 10 min to give and get feedback on activity
    - **After Class** - 1) Apply grid system to your project. Projects will be reviewed in a future class.  
    
-## 9. Sprint Retrospective
+## 9. Sprint Retrospective - DAN
    - **In Class Activities** 
         - *Sprint 2 Retrospective* - do a retrospective on your previous sprint  
         - *Sprint 3 Planning* - plan your next sprint
    - **After Class** - 1) finish the Reflective Best Self activity and 2) share your content with your coach
 
-## 10. Design: Typography
+## 10. Design: Information Hierarchy - MITCHELL
    - **In Class Activities** - Explore type with examples
         - *Feedback, Term Project* - Spend 10 mins to give and get feedback on the grid system used in your term project. 
         - *TYPOGRAPHY ACTIVITY* - In class examples 
         - *Feedback, class activity* - spend 10 min to give and get feedback on class activity. 
    - **After Class** - 1) Apply concepts from class to your project. These will reviewed in a future class.  
 
-## 11. Design: Color 
+## 11. Design: Color - MITCHELL
    - **In Class Activities**  
         - *Feedback, Term Project* - Spend 10 mins to give feedback on the typography used in your term project. 
         - *COLOR ACTIVITY* - In class examples with slides.
         - *Feedback* - spend 10 min to give and get feedback on the in class activity. 
    - **After Class** - 1) Apply concepts from class to your project. These will reviewed in a future class.  2) Write and finish your blog post ... assignment linked above. Submit the blog post at the 
 
-## 12. Assessment: Test & submit 1000 word blogpost. 
+## 12. Assessment: Test & submit 1000 word blogpost. - DAN
    - **In Class Activities**
         - *Assessment* - you'll take an assessment that cover the content from SPD 1.2. I recommend you review class slides and understand the major ideas taught in each activity.Those who miss this in-class assessment have the option to retake it the the Wednesday during the weeklong intensity.
    - **After Class** - Relax. Pat yourself on the back for your hard work! Get ready to build and ship your product idea (or a new product idea) during next week's product intensive.
