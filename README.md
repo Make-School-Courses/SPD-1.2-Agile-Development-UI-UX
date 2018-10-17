@@ -124,7 +124,7 @@ To pass this course you must meet the following requirements:
 ## 11. Design: Color - MITCHELL
    - **In Class Activities**  
         - *Feedback, Term Project* - Spend 10 mins to give feedback on the typography used in your term project. 
-        - *COLOR ACTIVITY* - In class examples with slides.
+        - *COLOR ACTIVITY* - In class examples with [slides](https://docs.google.com/presentation/d/1sIOJrlxhVqIjl54AufsztBB1WvfGxhqsnCd6I2pyTO0/edit?usp=sharing).
         - [*Exercise*](https://github.com/Product-College-Courses/SPD-UI-Color-and-Design)
         - *Feedback* - spend 10 min to give and get feedback on the in class activity. 
    - **After Class** - 1) Apply concepts from class to your project. These will reviewed in a future class.  2) Write and finish your blog post ... assignment linked above. Submit the blog post at the 
