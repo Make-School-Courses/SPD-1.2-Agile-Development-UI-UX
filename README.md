@@ -117,7 +117,8 @@ To pass this course you must meet the following requirements:
 ## 10. Design: Information Hierarchy - MITCHELL
    - **In Class Activities** - Explore type with examples
         - *Feedback, Term Project* - Spend 10 mins to give and get feedback on the grid system used in your term project. 
-        - *TYPOGRAPHY ACTIVITY* - In class examples 
+        - *TYPOGRAPHY ACTIVITY* - In class [slides](https://github.com/Product-College-Courses/SPD-Type-and-Design)
+        - *In Class* [activity](https://github.com/Product-College-Courses/SPD-Type-design-and-information-hierarchy)
         - *Feedback, class activity* - spend 10 min to give and get feedback on class activity. 
    - **After Class** - 1) Apply concepts from class to your project. These will reviewed in a future class.  
 
