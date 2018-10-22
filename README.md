@@ -33,9 +33,11 @@ Students by the end of the course will be able to ...
 
 ## Tutorials & Projects
 
-- [SPD 1.2 Blog Post: UI/UX](https://docs.google.com/document/d/1rfXVN1ldCbYt_2u9drXXOszQFlvTEW1xZi8-5Kh7XJQ/edit#heading=h.pxjuoqz282qp) -  link has the fully fledged assignment. Work on this assignment throughout the course instead of saving it for last minute. This blog post will serve as a valuable portfolio to demonstrate your skill to recruiters. This [Written Communication Rubric (AAC&U Value Rubric)](https://drive.google.com/file/d/1Q7kd-JTwd8COOGNeSD43UoAivwF5_dWZ/view?usp=sharing) will be used to evaluate your work.
+- [SPD 1.2 Blog Post: UI/UX](https://docs.google.com/document/d/1rfXVN1ldCbYt_2u9drXXOszQFlvTEW1xZi8-5Kh7XJQ/edit#heading=h.pxjuoqz282qp) -  link has the fully fledged assignment. Work on this assignment throughout the course instead of saving it for last minute. This blog post will serve as a valuable portfolio to demonstrate your skill to recruiters. 
+  - Grading: [Blog Post Rubric](https://drive.google.com/file/d/1Q7kd-JTwd8COOGNeSD43UoAivwF5_dWZ/view?usp=sharing) will be used to evaluate your work. Students must score an average of 2 or above to pass.
 - Classroom activities mentioned below
-- Shipped product - Term 2 ends with a one week "intensive" soley focused on designing, coding and shiping your own original product. We'll use this [portfolio project rubric](https://docs.google.com/document/d/1nd70y0jzxD31mgxvwxgXxUY_Bi4YAN_kX9To_M0UilI/edit?usp=drive_web&ouid=102349547791146369642) to evaluate your work.
+- Shipped product - Term 2 ends with a one week "intensive" soley focused on designing, coding and shiping your own original product. 
+  - Grading: We'll use this [portfolio project rubric](https://docs.google.com/document/d/1nd70y0jzxD31mgxvwxgXxUY_Bi4YAN_kX9To_M0UilI/edit?usp=drive_web&ouid=102349547791146369642) to evaluate your work.
 
 ## Evaluation
 
@@ -62,6 +64,7 @@ To pass this course you must meet the following requirements:
 ## 2. Pitching, Pair Formation, Wireframing - DAN
   - **In Class Activities** - 
     -  *Product Pitches* - Students will pitch their product idea (both verbally and through text) and self select into partner pairs. This is a great exercise to practice persuasive communication.
+    - *Teamwork skills diagnostic* - Students will fill out the "individual performance" teamwork rubric. This rubric helps you self-evaluate your teamwork related skills. Using the rubric, you can discuss with your partner your strengths and weaknesses as a teammate. This activity helps you  identify how you can grow individually and together as a team.
     -  *Draft User Journey and Wireframe* - Create a [Wireframe](https://docs.google.com/presentation/d/1ALBDn3bIycimyvnB6fEOAMadDOCA4wmoOO9Z-lpBRsM/edit#slide=id.p) and [User Journey](https://docs.google.com/presentation/d/1UKVsUOCxQPNT3P42cvsTYxhNl7lpsDHjJew_a5K1JaM/edit#slide=id.g16bb89fe2b_0_72) for your app. As we learned last term (see slides in links to the left), it's critical to user test this wireframe to ensure that it is intuitive and meets user needs.
   - **After Class** - 1) conduct user interviews for your idea 2) get feedback on your wireframe by "testing it" with potential users
 
