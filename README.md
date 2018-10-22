@@ -4,7 +4,7 @@
 
 Term two focuses on the foundational skills of successful engineering teams. In pairs, you and your partner will together build an app using “lean product development” methodology, the industry standard for engineering team collaboration. You'll learn SCRUM planning, an agile process used to ensure that your app meets user needs and technical specifications. 
 
-This class also covers how to make a seamless user experience (UX) based in an effective user interface (UI). We utilize design concepts inherent in the world’s most popular apps: information hierarchy, landing pages, system state, onboarding teardowns, typography and color. By the end you and your partner will ship a beautiful app that delights users.
+This class also covers how to make a seamless user experience (UX) based on an effective user interface (UI). We utilize design concepts inherent in the world’s most popular apps: information hierarchy, system state, grid systems, onboarding teardowns, typography and color. By the end you and your partner will ship a beautiful app that delights users.
 
 
 ## Course Specifics
@@ -37,7 +37,7 @@ Students by the end of the course will be able to ...
   - Grading: [Blog Post Rubric](https://drive.google.com/file/d/1Q7kd-JTwd8COOGNeSD43UoAivwF5_dWZ/view?usp=sharing) will be used to evaluate your work. Students must score an average of 2 or above to pass.
 - Classroom activities mentioned below
 - *Shipped product* - Term 2 ends with a one week "intensive" soley focused on designing, coding and shiping your own original product. 
-  - Grading: We'll use this [portfolio project rubric](https://docs.google.com/document/d/1nd70y0jzxD31mgxvwxgXxUY_Bi4YAN_kX9To_M0UilI/edit?usp=drive_web&ouid=102349547791146369642) to evaluate your work.
+  - Grading: We'll use this [portfolio project rubric](https://docs.google.com/document/d/1nd70y0jzxD31mgxvwxgXxUY_Bi4YAN_kX9To_M0UilI/edit?usp=drive_web&ouid=102349547791146369642) to evaluate your work. Products must score an average of >2 to pass.
 
 ## Evaluation
 
@@ -53,29 +53,30 @@ To pass this course you must meet the following requirements:
 
 13 planned lessons (7 weeks x 2 meetings per week -~1 holiday)
 
-## 1. Problem Ideation - DAN
+## 1. Problem Ideation - ([Class Slides](https://docs.google.com/presentation/u/1/d/1FLSLK2vR0srmS4Vo57qc_BHEwBX-JtXqNgvdDRBGHVw/edit?usp=drive_web&ouid=102349547791146369642)) DAN, BRAUS 10/22
   - **Before Class** - think of problems in the world that could be solved with technology
   - **In Class Activities** - 
     - Review your project from last term
     - *"Design Thinking review* - reflect on last term and connect our language to the practice of design thinking
     - *"Problem Area" Brainstorm & Pitch creation* - In class, we'll brainstorm problems areas and product ideas for our term 2 SPD project. You'll also hone your "pitch" for your idea that you will use to convince someone to work with you. This term, we'll work on projects in pairs instead of building an app or website on our own. Next class you'll find a partner.
-  - **After Class** - 1) Work on your pitch of your product idea, we'll give formal pitches and find partners during the next class - even if you find a partner, then you and your partner will pitch together 2) Begin to find a partner to work on your SPD project 3) Conduct user interviews to hone and validate your idea
+  - **After Class** - 1) Work on your pitch of your product idea, we'll give formal pitches and find partners during the next class - even if you already found a partner, you and your partner will pitch together 2) Begin to find a partner to work on your SPD project 3) Conduct user interviews to hone and validate your idea
 
-## 2. Pitching, Pair Formation, Wireframing - DAN
+## 2. Pitching, Pair Formation, Wireframing - DAN, BRAUS 10/24
   - **In Class Activities** - 
     -  *Product Pitches* - Students will pitch their product idea (both verbally and through text) and self select into partner pairs. This is a great exercise to practice persuasive communication.
-    - *Teamwork skills diagnostic* - Students will fill out the "individual performance" teamwork rubric. This rubric helps you self-evaluate your teamwork related skills. Using the rubric, you can discuss with your partner your strengths and weaknesses as a teammate. This activity helps you  identify how you can grow individually and together as a team.
+    - *Teamwork skills diagnostic* - Students will fill out the "individual performance" teamwork rubric. This rubric helps you self-evaluate your teamwork related skills. Using the rubric, you can discuss with your partner your strengths and weaknesses as a team. This activity helps you  identify how you can grow individually and together.
     -  *Draft User Journey and Wireframe* - Create a [Wireframe](https://docs.google.com/presentation/d/1ALBDn3bIycimyvnB6fEOAMadDOCA4wmoOO9Z-lpBRsM/edit#slide=id.p) and [User Journey](https://docs.google.com/presentation/d/1UKVsUOCxQPNT3P42cvsTYxhNl7lpsDHjJew_a5K1JaM/edit#slide=id.g16bb89fe2b_0_72) for your app. As we learned last term (see slides in links to the left), it's critical to user test this wireframe to ensure that it is intuitive and meets user needs.
+    - *Create a draft Medium.com article* - this article is where you will take notes on your product creation journey that will eventually become a blog post.
   - **After Class** - 1) conduct user interviews for your idea 2) get feedback on your wireframe by "testing it" with potential users
 
-## 3. Design Thinking: UX intro  ...  Wireframe Feedback - BRAUS, Concepts
+## 3. Design: UX intro of System State - BRAUS, DAN Concepts
   - **In Class Activities** 
     - *Teacher Talk: Into to User Experience & User Testing*
     - *Giving & Recieving Feedback Challenge* - So far, we've mostly build products by ourselves. Now we are introducing a critical component to professional development: giving an recieving feedback from peers. While giving feedback may seem simple, masterful delivery of feedback results in the recipient feeling inspired, encouraged, and a sense of ownership over their work. We'll practice giving and recieving feedback on our wireframes and also cover the most time-efficient ways to ask for help. This skill builds off of the previous professional communication content from the previous term and will build into the teamwork curriculum in term 3.
     - *Paper Prototyping and Testing* Students mock up projects with paper and test with users. Building apps with paper is fast, easy and allows for fast ideation. 
   - **After Class** - give and get feedback on your wireframe from two peers, and two people who are NOT Make School students. Test with people who are in your target demographic and have not seen your app yet. 
     
-## 4. Sprint 1 Planning & Pair-Programming - BRAUS
+## 4. Sprint 1 Planning & Pair-Programming - BRAUS, DAN
    - **In Class Activities** 
      - *Sprint Planning* - You and your partner will plan a "Sprint," the industry term for a set period of time to accomplish particular engineering tasks. Professional engineering teams conduct "sprint planning" to prioritize features and bugs, estimate times to complete tasks (also known as "tickets"), and address any other issues the team faces. Throughout the rest of this term, you and your partner will conduct 3 sprints to build your product idea.
      - *Pair-Programming* - learn how to "pair program" effectively for your partner. This is an industry practice where two engineers collaborate together at one workstation, simultaneously controlling the same screen. Pair programming allows you to catch errors, adapot each other's effective coding habits, and sync your thinking on your project. 
@@ -97,14 +98,8 @@ To pass this course you must meet the following requirements:
 
 ## 7. Git & GitHub Pt 2 - ALAN
    - **In Class Activities**   
-        - *Industry Contacts Challenge #2* - Students will connect with an industry professional, this time, to get feedback on their app and design. We'll cover how to strategicially make the most time out of your meeting, hacks to finding contact information, the ingredients of a stellar thank you note, and much more.
    - **After Class** - 1) send an email to reach out to an industry contact for feedback on your product, advice on how to be a successful engineer. You can schedule a call or meet in person.
 
-
-## 7. Industry Contacts XXX GitHub Pt 2 - ALAN
-   - **In Class Activities**   
-        - *Industry Contacts Challenge #2* - Students will connect with an industry professional, this time, to get feedback on their app and design. We'll cover how to strategicially make the most time out of your meeting, hacks to finding contact information, the ingredients of a stellar thank you note, and much more.
-   - **After Class** - 1) send an email to reach out to an industry contact for feedback on your product, advice on how to be a successful engineer. You can schedule a call or meet in person.
 
 ## 8. Design: UI Layout and Grid System - Discuss and present grid systems.  - MITCHELL
    - **In Class Activities** 
@@ -117,7 +112,8 @@ To pass this course you must meet the following requirements:
    - **In Class Activities** 
         - *Sprint 2 Retrospective* - do a retrospective on your previous sprint  
         - *Sprint 3 Planning* - plan your next sprint
-   - **After Class** - 1) finish the Reflective Best Self activity and 2) share your content with your coach
+         - *Industry Contacts Challenge #2* - Students will connect with an industry professional, this time, to get feedback on their app and design. We'll cover how to strategicially make the most time out of your meeting, hacks to finding contact information, the ingredients of a stellar thank you note, and much more.
+   - **After Class** - 1) finish the Reflective Best Self activity and 2) share your content with your coach 2) send an email to reach out to an industry contact for feedback on your product, advice on how to be a successful engineer. You can schedule a call or meet in person.
 
 ## 10. Design: Information Hierarchy - MITCHELL
    - **In Class Activities** - Explore type with examples
