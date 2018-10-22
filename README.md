@@ -57,7 +57,7 @@ To pass this course you must meet the following requirements:
     - Review your project from last term
     - *"Design Thinking review* - reflect on last term and connect our language to the practice of design thinking
     - *"Problem Area" Brainstorm & Pitch creation* - In class, we'll brainstorm problems areas and product ideas for our term 2 SPD project. You'll also hone your "pitch" for your idea that you will use to convince someone to work with you. This term, we'll work on projects in pairs instead of building an app or website on our own. Next class you'll find a partner.
-  - **After Class** - 1) Work on your pitch of your product idea, we'll give formal pitches and find partners during the next class 2) Begin to find a partner to work on your SPD project 3) Conduct user interviews to hone and validate your idea
+  - **After Class** - 1) Work on your pitch of your product idea, we'll give formal pitches and find partners during the next class - even if you find a partner, then you and your partner will pitch together 2) Begin to find a partner to work on your SPD project 3) Conduct user interviews to hone and validate your idea
 
 ## 2. Pitching, Pair Formation, Wireframing - DAN
   - **In Class Activities** - 
