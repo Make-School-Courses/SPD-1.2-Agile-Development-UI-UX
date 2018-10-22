@@ -33,10 +33,11 @@ Students by the end of the course will be able to ...
 
 ## Tutorials & Projects
 
-- *[SPD 1.2 Blog Post: UI/UX](https://docs.google.com/document/d/1rfXVN1ldCbYt_2u9drXXOszQFlvTEW1xZi8-5Kh7XJQ/edit#heading=h.pxjuoqz282qp)* -  link has the fully fledged assignment. Work on this assignment throughout the course instead of saving it for last minute. This blog post will serve as a valuable portfolio to demonstrate your skill to recruiters. 
+- **[SPD 1.2 Blog Post: UI/UX](https://docs.google.com/document/d/1rfXVN1ldCbYt_2u9drXXOszQFlvTEW1xZi8-5Kh7XJQ/edit#heading=h.pxjuoqz282qp)** -  link has the fully fledged assignment. Work on this assignment throughout the course instead of saving it for last minute. This blog post will serve as a valuable portfolio to demonstrate your skill to recruiters. 
   - Grading: [Blog Post Rubric](https://drive.google.com/file/d/1Q7kd-JTwd8COOGNeSD43UoAivwF5_dWZ/view?usp=sharing) will be used to evaluate your work. Students must score an average of 2 or above to pass.
 - Classroom activities mentioned below
-- *Shipped product* - Term 2 ends with a one week "intensive" soley focused on designing, coding and shiping your own original product. 
+- **Term 2: Product MVP** - due at the end of the term
+- **Intensive: Shipped product** - Term 2 ends with a one week "intensive" soley focused on designing, coding and shiping your own original product. 
   - Grading: We'll use this [portfolio project rubric](https://docs.google.com/document/d/1nd70y0jzxD31mgxvwxgXxUY_Bi4YAN_kX9To_M0UilI/edit?usp=drive_web&ouid=102349547791146369642) to evaluate your work. Products must score an average of >2 to pass.
 
 ## Evaluation
@@ -79,7 +80,7 @@ To pass this course you must meet the following requirements:
 ## 4. Sprint 1 Planning & Pair-Programming - BRAUS, DAN
    - **In Class Activities** 
      - *Sprint Planning* - You and your partner will plan a "Sprint," the industry term for a set period of time to accomplish particular engineering tasks. Professional engineering teams conduct "sprint planning" to prioritize features and bugs, estimate times to complete tasks (also known as "tickets"), and address any other issues the team faces. Throughout the rest of this term, you and your partner will conduct 3 sprints to build your product idea.
-     - *Pair-Programming* - learn how to "pair program" effectively for your partner. This is an industry practice where two engineers collaborate together at one workstation, simultaneously controlling the same screen. Pair programming allows you to catch errors, adapot each other's effective coding habits, and sync your thinking on your project. 
+     - *Pair-Programming* - learn how to "pair program" effectively with your partner. This is an industry practice where two engineers collaborate together at one workstation, simultaneously controlling the same screen. Pair programming allows you to catch errors, adapot each other's effective coding habits, and sync your thinking on your project. 
      - *Download Digital Mockup Tool* - TBD
   - **After Class** - 1) execute your sprint with your project partner 2) download the digital mockup software for next class's in-class activity
 
@@ -98,6 +99,7 @@ To pass this course you must meet the following requirements:
 
 ## 7. Git & GitHub Pt 2 - ALAN
    - **In Class Activities**   
+    - *Git & Github Pt 2 Tutorial* - coming soon!
    - **After Class** - 1) send an email to reach out to an industry contact for feedback on your product, advice on how to be a successful engineer. You can schedule a call or meet in person.
 
 
@@ -112,7 +114,7 @@ To pass this course you must meet the following requirements:
    - **In Class Activities** 
         - *Sprint 2 Retrospective* - do a retrospective on your previous sprint  
         - *Sprint 3 Planning* - plan your next sprint
-         - *Industry Contacts Challenge #2* - Students will connect with an industry professional, this time, to get feedback on their app and design. We'll cover how to strategicially make the most time out of your meeting, hacks to finding contact information, the ingredients of a stellar thank you note, and much more.
+        - *Industry Contacts Challenge #2* - Students will connect with an industry professional, this time, to get feedback on their app and design. We'll cover how to strategicially make the most time out of your meeting, hacks to finding contact information, the ingredients of a stellar thank you note, and much more.
    - **After Class** - 1) finish the Reflective Best Self activity and 2) share your content with your coach 2) send an email to reach out to an industry contact for feedback on your product, advice on how to be a successful engineer. You can schedule a call or meet in person.
 
 ## 10. Design: Information Hierarchy - MITCHELL
