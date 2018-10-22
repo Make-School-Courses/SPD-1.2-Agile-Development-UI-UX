@@ -33,10 +33,10 @@ Students by the end of the course will be able to ...
 
 ## Tutorials & Projects
 
-- [SPD 1.2 Blog Post: UI/UX](https://docs.google.com/document/d/1rfXVN1ldCbYt_2u9drXXOszQFlvTEW1xZi8-5Kh7XJQ/edit#heading=h.pxjuoqz282qp) -  link has the fully fledged assignment. Work on this assignment throughout the course instead of saving it for last minute. This blog post will serve as a valuable portfolio to demonstrate your skill to recruiters. 
+- *[SPD 1.2 Blog Post: UI/UX](https://docs.google.com/document/d/1rfXVN1ldCbYt_2u9drXXOszQFlvTEW1xZi8-5Kh7XJQ/edit#heading=h.pxjuoqz282qp)* -  link has the fully fledged assignment. Work on this assignment throughout the course instead of saving it for last minute. This blog post will serve as a valuable portfolio to demonstrate your skill to recruiters. 
   - Grading: [Blog Post Rubric](https://drive.google.com/file/d/1Q7kd-JTwd8COOGNeSD43UoAivwF5_dWZ/view?usp=sharing) will be used to evaluate your work. Students must score an average of 2 or above to pass.
 - Classroom activities mentioned below
-- Shipped product - Term 2 ends with a one week "intensive" soley focused on designing, coding and shiping your own original product. 
+- *Shipped product* - Term 2 ends with a one week "intensive" soley focused on designing, coding and shiping your own original product. 
   - Grading: We'll use this [portfolio project rubric](https://docs.google.com/document/d/1nd70y0jzxD31mgxvwxgXxUY_Bi4YAN_kX9To_M0UilI/edit?usp=drive_web&ouid=102349547791146369642) to evaluate your work.
 
 ## Evaluation
