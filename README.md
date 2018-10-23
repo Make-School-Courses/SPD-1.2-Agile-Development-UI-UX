@@ -84,20 +84,21 @@ To pass this course you must meet the following requirements:
      - *Download Digital Mockup Tool* - TBD
   - **After Class** - 1) execute your sprint with your project partner 2) download the digital mockup software for next class's in-class activity
 
-## 5. Digital Mock Ups & User Tests - MITCHELL
+## 5. Digital Mock Ups & User Tests - MITCHELL, ADRIANA
    - **In Class Activities** 
         - *Developing a Digital Mockups* - So far, we've used wireframes to mock up our app designs. Now, after much testing, we will make our design digital. You'll learn variety of design prototyping tools to design your apps.
         - *User Testing* - learn best practices to having users test your product without influencing them with bias.
-   - **After Class** - Conduct a user test with your software mockup. You must record test session with audio. Use Quicktime/Screen Capture. You'll be including these videos with your blogpost. 
+   - **After Class** - 1) conduct a user test with your software mockup. You must record test session with audio. Use Quicktime/Screen Capture. You'll be including these videos with your blogpost. 2) for next class, find an industry professional on LinkedIn you'd like to reach out to for advice.
 
-## 6. Sprint 1 Retrospective and Sprint 2 Planning - BRAUS
+## 6. Sprint 1 Retrospective and Sprint 2 Planning & Industry Contact pt 2 - BRAUS/DAN, MEGAN/JEFF
    - **In Class Activities**   
         - *Sprint Retrospectives* - Each Sprint ends with a "Sprint Retrospective" in which teammates reflect on their previous sprint's performance, discuss any team issues that arose, and add new "tickets" to the backlog. You can think of "Sprint Planning" as deciding what to build and the "Sprint Retrospective" as reflecting on how the team can collaborate better.
         - *Sprint 2 Planning* - Time to plan your next sprint with your partner!
+         - *Industry Contacts Challenge #2* - Students will connect with an industry professional, this time, to get feedback on their app and design. We'll cover how to strategicially make the most time out of your meeting, hacks to finding contact information, the ingredients of a stellar thank you note, and much more.
    - **After Class** - 1) execute your sprint with your project partner.
 
 
-## 7. Git & GitHub Pt 2 - ALAN
+## 7. Git & GitHub Pt 2 - ALAN, DANI
    - **In Class Activities**   
     - *Git & Github Pt 2 Tutorial* - coming soon!
    - **After Class** - 1) send an email to reach out to an industry contact for feedback on your product, advice on how to be a successful engineer. You can schedule a call or meet in person.
@@ -110,11 +111,10 @@ To pass this course you must meet the following requirements:
         - *Feedback, Class Activity* - spend 10 min to give and get feedback on activity
    - **After Class** - 1) Apply grid system to your project. Projects will be reviewed in a future class.  
    
-## 9. Sprint 2 Retrospective & Industry Contacts pt 2 - DAN
+## 9. Sprint 2 Retrospective & Industry Contacts - DAN
    - **In Class Activities** 
         - *Sprint 2 Retrospective* - do a retrospective on your previous sprint  
         - *Sprint 3 Planning* - plan your next sprint
-        - *Industry Contacts Challenge #2* - Students will connect with an industry professional, this time, to get feedback on their app and design. We'll cover how to strategicially make the most time out of your meeting, hacks to finding contact information, the ingredients of a stellar thank you note, and much more.
    - **After Class** - 1) finish the Reflective Best Self activity and 2) share your content with your coach 2) send an email to reach out to an industry contact for feedback on your product, advice on how to be a successful engineer. You can schedule a call or meet in person.
 
 ## 10. Design: Information Hierarchy - MITCHELL
