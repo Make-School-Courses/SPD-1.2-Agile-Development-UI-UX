@@ -13,7 +13,7 @@ Weeks to Completion:  7 <br>
 Total Seat Hours:  37.5 hours <br>
 Total Out-of-Class Hours: 75 hours <br>
 Total Hours: 112.5 hours <br>
-Units:  3 units <br>
+Units:  3 units, 1 unit for the intensive <br>
 Delivery Method:  Residential <br>
 Class Sessions:  14 classes, plus 7 coaching meetings and 24 huddles
 
