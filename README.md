@@ -78,7 +78,7 @@ To pass this course you must meet the following requirements:
     - *Paper Prototyping and Testing* Students mock up projects with paper and test with users. Building apps with paper is fast, easy and allows for fast ideation. 
   - **After Class** - give and get feedback on your wireframe from two peers, and two people who are NOT Make School students. Test with people who are in your target demographic and have not seen your app yet. 
     
-## 4. Sprint 1 Planning & Pair-Programming - BRAUS, DAN
+## 4. Sprint 1 Planning & Pair-Programming - ([Class Slides](https://docs.google.com/presentation/d/1r4eUABYAqmhHViiTJfyJ9z8gsPRCt9OCe5XBN9pHcRk/edit#slide=id.g469c023ccf_1_5)) BRAUS, DAN
    - **In Class Activities** 
      - *Sprint Planning* - You and your partner will plan a "Sprint," the industry term for a set period of time to accomplish particular engineering tasks. Professional engineering teams conduct "sprint planning" to prioritize features and bugs, estimate times to complete tasks (also known as "tickets"), and address any other issues the team faces. Throughout the rest of this term, you and your partner will conduct 3 sprints to build your product idea.
      - *Pair-Programming* - learn how to "pair program" effectively with your partner. This is an industry practice where two engineers collaborate together at one workstation, simultaneously controlling the same screen. Pair programming allows you to catch errors, adapot each other's effective coding habits, and sync your thinking on your project. 
