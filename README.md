@@ -95,10 +95,9 @@ Class Times: Monday and Wednesday sections between 10:00am-12:30pm (13 class ses
      - *Download Digital Mockup Tool* - TBD
   - **After Class** - 1) execute your sprint with your project partner 2) pair program with your partner, reference class slides for best practices 3) download the digital mockup software for next class's in-class activity
 
-## 5. Digital Mock Ups & User Tests - MITCHELL, ADRIANA
+## 5. Digital Mock Ups - MITCHELL, ADRIANA
    - **In Class Activities** 
         - *Developing a Digital Mockups* - So far, we've used wireframes to mock up our app designs. Now, after much testing, we will make our design digital. You'll learn variety of design prototyping tools to design your apps.
-        - *User Testing* - learn best practices to having users test your product without influencing them with bias.
    - **After Class** - 1) conduct a user test with your software mockup. You must record test session with audio. Use Quicktime/Screen Capture. You'll be including these videos with your blogpost. 2) for next class, find an industry professional on LinkedIn you'd like to reach out to for advice.
 
 ## 6. Sprint 1 Retrospective and Sprint 2 Planning & Industry Contact pt 2 - BRAUS/DAN, MEGAN/JEFF
