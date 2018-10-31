@@ -6,6 +6,9 @@ Term two focuses on the foundational skills of successful engineering teams. In 
 
 This class also covers how to make a seamless user experience (UX) based on an effective user interface (UI). We utilize design concepts inherent in the world’s most popular apps: information hierarchy, system state, grid systems, onboarding teardowns, typography and color. By the end you and your partner will ship a beautiful app that delights users.
 
+## Why you should know this (optional)
+
+Beautifully designed apps are a critical part of your portfolio - recruiters often notice design first and then look at the backend. Whether or not you end up becoming a front end developer, the tools you'll use in this course will give you the language to interface with design teams, understand user psychology, and practices to creating exceptional products.
 
 ## Course Specifics
 
@@ -34,25 +37,32 @@ Students by the end of the course will be able to ...
 ## Tutorials & Projects
 
 - **[SPD 1.2 Blog Post: UI/UX](https://docs.google.com/document/d/1rfXVN1ldCbYt_2u9drXXOszQFlvTEW1xZi8-5Kh7XJQ/edit#heading=h.pxjuoqz282qp)** -  link has the fully fledged assignment. Work on this assignment throughout the course instead of saving it for last minute. This blog post will serve as a valuable portfolio to demonstrate your skill to recruiters. 
+  - Draft due December 5th, which will be our feedback class
+  - Final due December 10th
   - Grading: [Blog Post Rubric](https://drive.google.com/file/d/1Q7kd-JTwd8COOGNeSD43UoAivwF5_dWZ/view?usp=sharing) will be used to evaluate your work. Students must score an average of 2 or above to pass.
 - Classroom activities mentioned below
-- **Term 2: Product MVP** - due at the end of the term
-- **Intensive: Shipped product** - Term 2 ends with a one week "intensive" soley focused on designing, coding and shiping your own original product. 
+- **Term 2: Product MVP - Due November 28th** - due at the end of the term
+  - Version 1 due November 28th, shipped “skateboard” that scores a 3 on the [intensive rubric](https://docs.google.com/document/d/1pdtRdgVISE07fFc8oBi5hCnLkwBQDFG5_3f79aDV1WU/edit)
+  - Version 2 due December 10th, Polished App using the [portfolio project rubric](http://make.sc/portfolio-project-rubric), excluding the following rows (we'll cover that in future terms): Agile & SCRUM planning, Adoption
+  - Grading: reference the two rubrics above
+- **Intensive: Shipped product** - Term 2 ends with a one week "intensive" soley focused on designing, coding and shiping your own NEW original product. 
   - Grading: We'll use this [portfolio project rubric](https://docs.google.com/document/d/1nd70y0jzxD31mgxvwxgXxUY_Bi4YAN_kX9To_M0UilI/edit?usp=drive_web&ouid=102349547791146369642) to evaluate your work. Products must score an average of >2 to pass.
 
 ## Evaluation
 
 To pass this course you must meet the following requirements:
 
-- No more than two no call no shows
-- No more than four excused absences
 - Make up all classwork from all absences
 - Finish all required tutorials and projects
-- Pass the final exam (summative assessment) >=80%
+- Pass the final exam (summative assessment) >=75%
 
 # Lessons
 
-13 planned lessons (7 weeks x 2 meetings per week -~1 holiday)
+Course Dates: Monday, October 24 – Wednesday, December 12, 2018 (7 weeks)
+
+Class Times: Monday and Wednesday sections between 10:00am-12:30pm (13 class sessions)
+
+12 planned lessons (7 weeks x 2 meetings per week -~1 holiday)
 
 ## 1. Problem Ideation - ([Class Slides](https://docs.google.com/presentation/u/1/d/1FLSLK2vR0srmS4Vo57qc_BHEwBX-JtXqNgvdDRBGHVw/edit?usp=drive_web&ouid=102349547791146369642)) DAN, BRAUS 10/22
   - **Before Class** - think of problems in the world that could be solved with technology
@@ -83,7 +93,7 @@ To pass this course you must meet the following requirements:
      - *Sprint Planning* - You and your partner will plan a "Sprint," the industry term for a set period of time to accomplish particular engineering tasks. Professional engineering teams conduct "sprint planning" to prioritize features and bugs, estimate times to complete tasks (also known as "tickets"), and address any other issues the team faces. Throughout the rest of this term, you and your partner will conduct 3 sprints to build your product idea.
      - *Pair-Programming* - learn how to "pair program" effectively with your partner. This is an industry practice where two engineers collaborate together at one workstation, simultaneously controlling the same screen. Pair programming allows you to catch errors, adapot each other's effective coding habits, and sync your thinking on your project. 
      - *Download Digital Mockup Tool* - TBD
-  - **After Class** - 1) execute your sprint with your project partner 2) download the digital mockup software for next class's in-class activity
+  - **After Class** - 1) execute your sprint with your project partner 2) pair program with your partner, reference class slides for best practices 3) download the digital mockup software for next class's in-class activity
 
 ## 5. Digital Mock Ups & User Tests - MITCHELL, ADRIANA
    - **In Class Activities** 
@@ -139,6 +149,14 @@ To pass this course you must meet the following requirements:
         - *Assessment* - you'll take an assessment that cover the content from SPD 1.2. I recommend you review class slides and understand the major ideas taught in each activity.Those who miss this in-class assessment have the option to retake it the the Wednesday during the weeklong intensity.
    - **After Class** - Relax. Pat yourself on the back for your hard work! Get ready to build and ship your product idea (or a new product idea) during next week's product intensive.
 
+## Attendance
+Just like any job, attendance at Make School is required and a key component of your success. Attendance is being onsite from 9:30 to 5:30 each day, attending all scheduled sessions: classes, huddles, etc. and working in the study labs when not in a scheduled session. Working onsite allows you to learn with your peers, have access to support from TAs, instructors and others, and is vital to your learning.
+
+Attendance requirements for scheduled sessions are:
+  - No more than two no call no shows per term in any scheduled session.  
+  - No more than four excused absences per term in any scheduled session.
+
+Failure to meet these requirements will result in a PIP (Participation Improvement Plan). Failure to improve after the PIP will result in not being invited back next term.
 
 ## Huddle Schedule - daily morning group meeting
 * Week 1: Collaboration - Get to know your fellow classmates and establish a foundation of community
