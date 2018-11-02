@@ -41,7 +41,7 @@ Students by the end of the course will be able to ...
   - Final due December 10th
   - Grading: [Blog Post Rubric](https://drive.google.com/file/d/1Q7kd-JTwd8COOGNeSD43UoAivwF5_dWZ/view?usp=sharing) will be used to evaluate your work. Students must score an average of 2 or above to pass.
 - Classroom activities mentioned below
-- **Term 2: Product MVP - Due November 28th** - due at the end of the term
+- **Term 2: Product - MVP Due November 28th, and Polished Due December 10th**
   - Version 1 due November 28th, shipped “skateboard” that scores a 3 on the [intensive rubric](https://docs.google.com/document/d/1pdtRdgVISE07fFc8oBi5hCnLkwBQDFG5_3f79aDV1WU/edit)
   - Version 2 due December 10th, Polished App using the [portfolio project rubric](http://make.sc/portfolio-project-rubric), excluding the following rows (we'll cover that in future terms): Agile & SCRUM planning, Adoption
   - Grading: reference the two rubrics above
