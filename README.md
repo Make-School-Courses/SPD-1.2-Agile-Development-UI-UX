@@ -114,26 +114,24 @@ Class Times: Monday and Wednesday sections between 10:00am-12:30pm (13 class ses
    - **After Class** - 1) send an email to reach out to an industry contact for feedback on your product, advice on how to be a successful engineer. You can schedule a call or meet in person.
 
 
-## 8. Design: UI Layout and Grid System - Discuss and present grid systems.  - MITCHELL
-   - **In Class Activities** 
-        - *Feedback, Term Project** - spend 10 min to give feedback on a peer's term project mockup designed in a previous class
-        - *LAYOUT AND GRID SYSTEM ACTIVITY* - Complete an in-class activity focused on effective grid design.
-        - *Feedback, Class Activity* - spend 10 min to give and get feedback on activity
-   - **After Class** - 1) Apply grid system to your project. Projects will be reviewed in a future class.  
-   
-## 9. Sprint 2 Retrospective & User Testing - DAN
+## 8. Typography & Information Hierarchy  - MITCHELL
+   - **In Class Activities** - Explore type with examples
+        - *Feedback, Term Project* - Spend 10 mins to give and get feedback on another team's product design and logo that you worked on from last class. 
+        - *TYPOGRAPHY ACTIVITY* - In class [slides](https://github.com/Product-College-Courses/SPD-Type-and-Design)
+        - *In Class* [activity](https://github.com/Product-College-Courses/SPD-Type-design-and-information-hierarchy)
+        - *Feedback, class activity* - spend 10 min to give and get feedback on class activity. 
+   - **After Class** - 1) Apply concepts from class to your project. These will be reviewed in a future class.  
+ 
+## 9. Sprint 2 Retrospective - DAN
    - **In Class Activities** 
         - *Sprint 2 Retrospective* - do a retrospective on your previous sprint  
         - *Sprint 3 Planning* - plan your next sprint
    - **After Class** - 1) conduct a user test with your software mockup. You must record test session with audio. Use Quicktime/Screen Capture. You'll be including these videos with your blogpost. 2)  share your mock up with your coach.
 
-## 10. Design: Information Hierarchy - MITCHELL
+## 10. User Testing & Product Draft - MITCHELL
    - **In Class Activities** - Explore type with examples
-        - *Feedback, Term Project* - Spend 10 mins to give and get feedback on the grid system used in your term project. 
-        - *TYPOGRAPHY ACTIVITY* - In class [slides](https://github.com/Product-College-Courses/SPD-Type-and-Design)
-        - *In Class* [activity](https://github.com/Product-College-Courses/SPD-Type-design-and-information-hierarchy)
-        - *Feedback, class activity* - spend 10 min to give and get feedback on class activity. 
-   - **After Class** - 1) Apply concepts from class to your project. These will reviewed in a future class.  
+        - *User Testing Activity* - conduct multiple user tests with other students in order to understand your product. 
+   - **After Class** - 1) continue working on your SPD project with your partner.
 
 ## 11. Design: Color - MITCHELL
    - **In Class Activities**  
