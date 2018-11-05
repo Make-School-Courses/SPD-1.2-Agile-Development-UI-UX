@@ -92,10 +92,10 @@ Class Times: Monday and Wednesday sections between 10:00am-12:30pm (13 class ses
    - **In Class Activities** 
      - *Sprint Planning* - You and your partner will plan a "Sprint," the industry term for a set period of time to accomplish particular engineering tasks. Professional engineering teams conduct "sprint planning" to prioritize features and bugs, estimate times to complete tasks (also known as "tickets"), and address any other issues the team faces. Throughout the rest of this term, you and your partner will conduct 3 sprints to build your product idea.
      - *Pair-Programming* - learn how to "pair program" effectively with your partner. This is an industry practice where two engineers collaborate together at one workstation, simultaneously controlling the same screen. Pair programming allows you to catch errors, adapot each other's effective coding habits, and sync your thinking on your project. 
-     - *Download Digital Mockup Tool* - TBD
-  - **After Class** - 1) execute your sprint with your project partner 2) pair program with your partner, reference class slides for best practices 3) download the digital mockup software for next class's in-class activity
+     - *Download Digital Mockup Tool* - [Download Adobe XD](https://www.adobe.com/products/xd.html)
+  - **After Class** - 1) execute your sprint with your project partner 2) pair program with your partner, reference class slides for best practices 3) download the digital mockup software ([Adobe XD](https://www.adobe.com/products/xd.html)) for next class's in-class activity
 
-## 5. Digital Mock Ups - MITCHELL, ADRIANA
+## 5. Digital Mock Ups - ([Class Slides](https://docs.google.com/presentation/d/1MC9D6sFMJLH0By0de65wevx4Zc7LnN12U3Fgf0sQV3M/edit#slide=id.p)) MITCHELL, ADRIANA
    - **In Class Activities** 
         - *Developing a Digital Mockups* - So far, we've used wireframes to mock up our app designs. Now, after much testing, we will make our design digital. You'll learn variety of design prototyping tools to design your apps.
    - **After Class** - 1) create a design prototype for your term 2 app idea with your partner 2) for next class, find an industry professional on LinkedIn you'd like to reach out to for advice.
