@@ -100,7 +100,7 @@ Class Times: Monday and Wednesday sections between 10:00am-12:30pm (13 class ses
         - *Developing a Digital Mockups* - So far, we've used wireframes to mock up our app designs. Now, after much testing, we will make our design digital. You'll learn variety of design prototyping tools to design your apps.
    - **After Class** - 1) create a design prototype for your term 2 app idea with your partner 2) for next class, find an industry professional on LinkedIn you'd like to reach out to for advice.
 
-## 6. Sprint 1 Retrospective and Sprint 2 Planning & Industry Contact pt 2 - ([Class Slides](https://docs.google.com/presentation/d/1gCBlmpYySuPevpiWLiiAWS0g0-OUcYJtpwZO3NqhhFA/edit#slide=id.p))BRAUS/DAN
+## 6. Sprint 1 Retrospective and Sprint 2 Planning & Industry Contact pt 2 - ([Class Slides](https://docs.google.com/presentation/d/1gCBlmpYySuPevpiWLiiAWS0g0-OUcYJtpwZO3NqhhFA/edit#slide=id.p)) BRAUS/DAN
    - **In Class Activities**   
         - *Sprint Retrospectives* - Each Sprint ends with a "Sprint Retrospective" in which teammates reflect on their previous sprint's performance, discuss any team issues that arose, and add new "tickets" to the backlog. You can think of "Sprint Planning" as deciding what to build and the "Sprint Retrospective" as reflecting on how the team can collaborate better.
         - *Sprint 2 Planning* - Time to plan your next sprint with your partner!
