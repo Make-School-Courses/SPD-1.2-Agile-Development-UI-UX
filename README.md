@@ -109,7 +109,7 @@ Class Times: Monday and Wednesday sections between 10:00am-12:30pm (13 class ses
 
 ## 7. Git & GitHub Pt 2 - ALAN, DANI
    - **In Class Activities**   
-    - *Git & Github Pt 2 Tutorial* - coming soon!
+    - *Git & Github Pt 2 Tutorial*: [Git to Know Branching](https://www.makeschool.com/academy/track/git-to-know-branching)
    - **After Class** - 1) send an email to reach out to an industry contact for feedback on your product, advice on how to be a successful engineer. You can schedule a call or meet in person.
 
 
