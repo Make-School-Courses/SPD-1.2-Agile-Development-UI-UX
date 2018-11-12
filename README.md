@@ -113,7 +113,7 @@ Class Times: Monday and Wednesday sections between 10:00am-12:30pm (13 class ses
    - **After Class** - 1) send an email to reach out to an industry contact for feedback on your product, advice on how to be a successful engineer. You can schedule a call or meet in person.
 
 
-## 8. Typography & Information Hierarchy  - MITCHELL
+## 8. Typography & Information Hierarchy  -  ([Class Slides](https://docs.google.com/presentation/d/1uzPL2sBMi7lrcT4lTPU4f8YpAnbI9W8k-OwQ0a5ptGo/edit#slide=id.g448915df68_2_0))MITCHELL
    - **In Class Activities** - Explore type with examples
         - *Feedback, Term Project* - Spend 10 mins to give and get feedback on another team's product design and logo that you worked on from last class. 
         - *TYPOGRAPHY ACTIVITY* - In class [slides](https://github.com/Product-College-Courses/SPD-Type-and-Design)
