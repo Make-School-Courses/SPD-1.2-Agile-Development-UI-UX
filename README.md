@@ -117,7 +117,7 @@ Class Times: Monday and Wednesday sections between 10:00am-12:30pm (13 class ses
    - **In Class Activities** - Explore type with examples
         - *Feedback, Term Project* - Spend 10 mins to give and get feedback on another team's product design and logo that you worked on from last class. 
         - *TYPOGRAPHY ACTIVITY* - In class [slides](https://github.com/Product-College-Courses/SPD-Type-and-Design)
-        - *In Class* [activity](https://github.com/Product-College-Courses/SPD-Type-design-and-information-hierarchy)
+        - *In Class* [activity](https://github.com/Product-College-Courses/SPD-Type-design-and-information-hierarchy/raw/master/exercise.zip) Download these files for the activity.
         - *Feedback, class activity* - spend 10 min to give and get feedback on class activity. 
    - **After Class** - 1) Apply concepts from class to your project. These will be reviewed in a future class.  
  
