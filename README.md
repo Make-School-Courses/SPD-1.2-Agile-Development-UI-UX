@@ -127,7 +127,7 @@ Class Times: Monday and Wednesday sections between 10:00am-12:30pm (13 class ses
         - *Sprint 3 Planning* - plan your next sprint
    - **After Class** - 1) conduct a user test with your software mockup. You must record test session with audio. Use Quicktime/Screen Capture. You'll be including these videos with your blogpost. 2)  share your mock up with your coach.
 
-## 10. User Testing & Product Draft - MITCHELL
+## 10. User Testing & Product Draft ([Class Slides](https://docs.google.com/presentation/d/1MZbpzXa8FvNHywv0IUrCDmazzcS8omLLOtmDBpy54T0/edit?usp=drive_web&ouid=102349547791146369642))- MITCHELL
    - **In Class Activities** - Explore type with examples
         - *User Testing Activity* - conduct multiple user tests with other students in order to understand your product. 
         [Slides](https://docs.google.com/presentation/d/1MZbpzXa8FvNHywv0IUrCDmazzcS8omLLOtmDBpy54T0/edit?usp=sharing)
