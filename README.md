@@ -56,6 +56,8 @@ To pass this course you must meet the following requirements:
 - Finish all required tutorials and projects
 - Pass the final exam (summative assessment) >=75%
 
+View this [Study Guide](https://docs.google.com/document/d/1jIQNkW7CkgLC2aSnqrIfkJaB-pXvygDBqrUBqpZp_SQ/edit#) to prepare for the exam.
+
 # Lessons
 
 Course Dates: Monday, October 24 – Wednesday, December 12, 2018 (7 weeks)
