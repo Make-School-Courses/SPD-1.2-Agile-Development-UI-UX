@@ -143,7 +143,13 @@ Class Times: Monday and Wednesday sections between 10:00am-12:30pm (13 class ses
         - *Feedback* - spend 10 min to give and get feedback on the in class activity. 
    - **After Class** - 1) Apply concepts from class to your project. These will reviewed in a future class.  2) Write and finish your blog post ... assignment linked above. Submit the blog post at the 
 
-## 12. Assessment: Test & submit 1000 word blogpost. - DAN
+## 12. Blog Post Peer Editing
+   - **In Class Activities** 
+      - *Improving Transitions in Writing* - We'll do an exercise to improve the 
+      - *Peer Editing* - We'll peer edit each other's blog posts using the [Blog Post and Writing Rubric](www.make.sc/blog-post-rubric).
+   - **After Class** - 1) finish your blog post final draft 2) share your blog post with your coach 3) study for the SPD 1.2 assessment occuring on Monday Dec 10th.
+
+## 13. Assessment: Test & submit 1000 word blogpost. - DAN
    - **In Class Activities**
         - *Assessment* - you'll take an assessment that cover the content from SPD 1.2. I recommend you review class slides and understand the major ideas taught in each activity.Those who miss this in-class assessment have the option to retake it the the Wednesday of that week.
    - **After Class** - Relax. Pat yourself on the back for your hard work! Get ready to build and ship your product idea (or a new product idea) during next week's product intensive.
