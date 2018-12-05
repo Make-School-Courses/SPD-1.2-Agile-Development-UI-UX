@@ -143,7 +143,7 @@ Class Times: Monday and Wednesday sections between 10:00am-12:30pm (13 class ses
         - *Feedback* - spend 10 min to give and get feedback on the in class activity. 
    - **After Class** - 1) Apply concepts from class to your project. These will reviewed in a future class.  2) Write and finish your blog post ... assignment linked above. Submit the blog post at the 
 
-## 12. Blog Post Peer Editing
+## 12. Blog Post Peer Editing ([Class Slides](https://docs.google.com/presentation/d/1T0NEbFZK1jP-wKScyNUtwIsgeJbw-WoqXLOX_vv9A5w/edit#slide=id.g49a61791e0_0_106))
    - **In Class Activities** 
       - *Improving Transitions in Writing* - We'll do an exercise to improve the 
       - *Peer Editing* - We'll peer edit each other's blog posts using the [Blog Post and Writing Rubric](www.make.sc/blog-post-rubric).
