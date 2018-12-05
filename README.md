@@ -48,7 +48,7 @@ Students by the end of the course will be able to ...
 - **Intensive: Shipped product** - Term 2 ends with a one week "intensive" soley focused on designing, coding and shiping your own NEW original product. 
   - Grading: We'll use this [portfolio project rubric](https://docs.google.com/document/d/1nd70y0jzxD31mgxvwxgXxUY_Bi4YAN_kX9To_M0UilI/edit?usp=drive_web&ouid=102349547791146369642) to evaluate your work. Products must score an average of >2 to pass.
 
-## Evaluation
+## Evaluation ([Study Guide](https://docs.google.com/document/d/1jIQNkW7CkgLC2aSnqrIfkJaB-pXvygDBqrUBqpZp_SQ/edit#))
 
 To pass this course you must meet the following requirements:
 
