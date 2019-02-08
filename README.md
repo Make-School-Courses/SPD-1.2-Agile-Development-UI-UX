@@ -73,6 +73,7 @@ Students by the end of the course will be able to ...
 ## Tutorials & Projects
 
 - [Assignment 1- Blog Post: UI/UX](assignment-1.md)
+- [Assignment 2- Partner Project](assignment-2.md)
 
 ## Evaluation ([Study Guide](https://docs.google.com/document/d/1jIQNkW7CkgLC2aSnqrIfkJaB-pXvygDBqrUBqpZp_SQ/edit#))
 
