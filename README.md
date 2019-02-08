@@ -67,6 +67,8 @@ Students by the end of the course will be able to ...
 [Lesson 10]: Lessons/Lesson10.md
 [Lesson 11]: Lessons/Lesson11.md
 [Lesson 12]: Lessons/Lesson12.md
+[Lesson 13]: Lessons/Lesson13.md
+
 
 ## Tutorials & Projects
 
