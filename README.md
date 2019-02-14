@@ -32,7 +32,7 @@ Students by the end of the course will be able to ...
 1. Design beautiful, practical, and intuitive apps using the leading UI/UX practices (PLO 3)
 1. Use agile methodology to iterate your app design as informed by user interviews and feedback (PLO 3)
 1. Demonstrate a diverse and individualized set of professional skills necessary to succeed while at Make School and beyond. (PLO 1) 
-1. Consistently practice professional business communication that is actionable with an appreciative tone. (PLO 4)
+1. Practice professional business communication that is actionable with an appreciative tone. (PLO 4)
 
 ## Schedule
 
