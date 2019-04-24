@@ -15,8 +15,6 @@
   - [Lesson 13]
   - Final Class (Presentations, Demos, etc)
   - Final Exam/Presentations
-- **[Assignment 1 - Blog Post: UI/UX](assignment-1.md)**
-- **[Assignment 2 - Partner Project](assignment-2.md)**
 
 [Lesson 1]: Lessons/Lesson1.md
 [Lesson 2]: Lessons/Lesson2.md
