@@ -40,20 +40,20 @@ Students by the end of the course will be able to ...
 
 | Class |          Date          |                 Topics                  |
 |:-----:|:----------------------:|:---------------------------------------:|
-|  1    | Monday                 | [Lesson 1]                              |
-|  2    | Wednesday              | [Lesson 2]                              |
-|  3    | Monday                 | [Lesson 3]                              |
-|  4    | Wednesday              | [Lesson 4]                              |
-|  5    | Monday                 | [Lesson 5]                              |
-|  6    | Wednesday              | [Lesson 6]                              |
-|  7    | Monday                 | [Lesson 7]                              |
-|  8    | Wednesday              | [Lesson 8]                              |
-|  9    | Monday                 | [Lesson 9]                              |
-|  10   | Wednesday              | [Lesson 10]                             |
-|  11   | Monday                 | [Lesson 11]                             |
-|  12   | Wednesday              | [Lesson 11]                             |
-|  13   | Monday                 | [Lesson 13]                             |
-|  14   | Wednesday              | Final Exams/Presentations               |
+|  1    | Monday, October 21     | [Lesson 1]                              |
+|  2    | Wednesday, October 23  | [Lesson 2]                              |
+|  3    | Monday, October 28     | [Lesson 3]                              |
+|  4    | Wednesday, October 30  | [Lesson 4]                              |
+|  5    | Monday, November       | [Lesson 5]                              |
+|  6    | Wednesday, November    | [Lesson 6]                              |
+|  7    | Monday, November 11    | [Lesson 7]                              |
+|  8    | Wednesday, November 13 | [Lesson 8]                              |
+|  9    | Monday, November 18    | [Lesson 9]                              |
+|  10   | Wednesday, November 20 | [Lesson 10]                             |
+|  11   | Monday, November 25    | [Lesson 11]                             |
+|  12   | Wednesday, November 27 | [Lesson 11]                             |
+|  13   | Monday, December 2     | [Lesson 13]                             |
+|  14   | Wednesday, December 4  | Final Exams/Presentations               |
 
 [Lesson 1]: Lessons/Lesson1.md
 [Lesson 2]: Lessons/Lesson2.md
