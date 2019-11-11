@@ -34,46 +34,9 @@ Students by the end of the course will be able to ...
 1. Demonstrate a diverse and individualized set of professional skills necessary to succeed while at Make School and beyond. (PLO 1) 
 1. Practice professional business communication that is actionable with an appreciative tone. (PLO 4)
 
-## Schedule
+## Schedule,Tutorials, Projects, and Attendance
 
-**Class Times:** Monday and Wednesday at 3:30–5:20pm (10 class sessions)
-
-| Class |          Date          |                 Topics                  |
-|:-----:|:----------------------:|:---------------------------------------:|
-|  1    | Monday                 | [Lesson 1]                              |
-|  2    | Wednesday              | [Lesson 2]                              |
-|  3    | Monday                 | [Lesson 3]                              |
-|  4    | Wednesday              | [Lesson 4]                              |
-|  5    | Monday                 | [Lesson 5]                              |
-|  6    | Wednesday              | [Lesson 6]                              |
-|  7    | Monday                 | [Lesson 7]                              |
-|  8    | Wednesday              | [Lesson 8]                              |
-|  9    | Monday                 | [Lesson 9]                              |
-|  10   | Wednesday              | [Lesson 10]                             |
-|  11   | Monday                 | [Lesson 11]                             |
-|  12   | Wednesday              | [Lesson 11]                             |
-|  13   | Monday                 | [Lesson 13]                             |
-|  14   | Wednesday              | Final Exams/Presentations               |
-
-[Lesson 1]: Lessons/Lesson1.md
-[Lesson 2]: Lessons/Lesson2.md
-[Lesson 3]: Lessons/Lesson3.md
-[Lesson 4]: Lessons/Lesson4.md
-[Lesson 5]: Lessons/Lesson5.md
-[Lesson 6]: Lessons/Lesson6.md
-[Lesson 7]: Lessons/Lesson7.md
-[Lesson 8]: Lessons/Lesson8.md
-[Lesson 9]: Lessons/Lesson9.md
-[Lesson 10]: Lessons/Lesson10.md
-[Lesson 11]: Lessons/Lesson11.md
-[Lesson 12]: Lessons/Lesson12.md
-[Lesson 13]: Lessons/Lesson13.md
-
-
-## Tutorials & Projects
-
-- [Assignment 1- Blog Post: UI/UX](assignment-1.md)
-- [Assignment 2- Partner Project](assignment-2.md)
+Please use the [SPD 1.2 Course Tracker Spreadsheet](https://docs.google.com/spreadsheets/d/1dxjCDS51qxxWLWxqktegeNXEEMWllIWe6qfpzE2zyek/edit#gid=0) to see the schedule, attendance, due dates, etc. You can find this at make.sc/spd-1-2
 
 ## Evaluation ([Study Guide](https://docs.google.com/document/d/1jIQNkW7CkgLC2aSnqrIfkJaB-pXvygDBqrUBqpZp_SQ/edit#))
 
@@ -81,17 +44,8 @@ To pass this course you must meet the following requirements:
 
 - Make up all classwork from all absences
 - Finish all required tutorials and projects
-- Pass the final exam (summative assessment) >=75%
 
 View this [Study Guide](https://docs.google.com/document/d/1jIQNkW7CkgLC2aSnqrIfkJaB-pXvygDBqrUBqpZp_SQ/edit#) to prepare for the exam.
-
-# Lessons
-
-Course Dates: Monday, October 24 – Wednesday, December 12, 2018 (7 weeks)
-
-Class Times: Monday and Wednesday sections between 10:00am-12:30pm (13 class sessions)
-
-12 planned lessons (7 weeks x 2 meetings per week -~1 holiday)
 
 ## Attendance
 Just like any job, attendance at Make School is required and a key component of your success. Attendance is being onsite from 9:30 to 5:30 each day, attending all scheduled sessions including classes, huddles, coaching and school meetings, and working in the study labs when not in a scheduled session. Working onsite allows you to learn with your peers, have access to support from TAs, instructors and others, and is vital to your learning.
