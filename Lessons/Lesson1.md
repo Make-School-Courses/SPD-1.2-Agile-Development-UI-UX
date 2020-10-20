@@ -17,15 +17,15 @@
 
 [Class Slides](https://docs.google.com/presentation/d/1lXplxfWtePlSnKepFQpRIf3emj95l6oT_kgRwl6N_Hk/edit?usp=sharing)
 
-  - **Objectives** -
+  - **Objectives**
     - Complete your first paper wireframe
     - Master getting started with the CSS Framework: Bootstrap
 
-  - **In Class Activities** -
+  - **In Class Activities**
     - [Bootstrap Product Landing Page Tutorial](https://www.makeschool.com/academy/track/standalone/tutorial-template-title-max-56-characters-9k4/starting-the-project)
 
-  - **After Class** -
+  - **After Class**
     - [Bootstrap Product Landing Page Tutorial](https://www.makeschool.com/academy/track/standalone/tutorial-template-title-max-56-characters-9k4/starting-the-project)
 
-  - **Additional Resources** -
+  - **Additional Resources**
     - [Your first landing page tutorial](https://www.makeschool.com/academy/track/standalone/your-first-website--landing-page/dev-environment)

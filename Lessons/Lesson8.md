@@ -19,7 +19,9 @@
     - Create bracnces
     - Merge branches
     - Solve merge conflicts
+
 - **In Class Activities**   
   - *Git & Github Pt Tutorial*: [Git to Know Branching](https://www.makeschool.com/academy/track/git-to-know-branching)
+  
 - **After Class**
   - [Final Project Sprint 1](https://docs.google.com/document/d/15m8P9ic7sJqVovTozIRdikWCI7HQ_f5TOc5qpqyiAYs/edit#)

@@ -11,7 +11,9 @@
 -->
 
 ## 7. Digital Mock up Lab + Final Project Kick off
+
   - **In Class Activities**   
     - Final Project Kick off
+    
   - **After Class**
     - [Final Project Sprint 1](https://docs.google.com/document/d/15m8P9ic7sJqVovTozIRdikWCI7HQ_f5TOc5qpqyiAYs/edit#)

@@ -11,15 +11,15 @@
 
 ## 6. User Testing
 
-    [Class Slides](https://docs.google.com/presentation/d/1MZbpzXa8FvNHywv0IUrCDmazzcS8omLLOtmDBpy54T0/edit#slide=id.p)
+[Class Slides](https://docs.google.com/presentation/d/1MZbpzXa8FvNHywv0IUrCDmazzcS8omLLOtmDBpy54T0/edit#slide=id.p)
 
-      - **Objectives** -
-        - Improve the design of your product with User Testing
-        - Design an unbiased user testing script to gain insights on how to improve your product
-        - Run an unbiased user test
+- **Objectives**
+  - Improve the design of your product with User Testing
+  - Design an unbiased user testing script to gain insights on how to improve your product
+  - Run an unbiased user test
 
-      - **In Class Activities** -
-        - User Test Digital Mockup & Update It
+- **In Class Activities**
+  - User Test Digital Mockup & Update It
 
-      - **After Class** -
-        - [Digital Mockup](https://docs.google.com/document/u/1/d/1LV1gGf_QhRyX4WnPvEebC1a6SCXD-oF5tbb70QHVzfk/edit?usp=drive_web&ouid=106043311622109841017)
+- **After Class**
+  - [Digital Mockup](https://docs.google.com/document/u/1/d/1LV1gGf_QhRyX4WnPvEebC1a6SCXD-oF5tbb70QHVzfk/edit?usp=drive_web&ouid=106043311622109841017)

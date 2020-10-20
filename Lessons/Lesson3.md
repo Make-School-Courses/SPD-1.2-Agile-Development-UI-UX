@@ -14,15 +14,15 @@
 
 ## 3. Intro to UI/UX, Visual Hierarchy, History of Web Design
 
-    [Class Slides](https://docs.google.com/presentation/d/1M5cy17j8AaPwqxv0OcYIJ1Wz88R1EEsDG63Zt90bz8Y/edit#slide=id.g4d5ab4fc28_0_0)
+[Class Slides](https://docs.google.com/presentation/d/1M5cy17j8AaPwqxv0OcYIJ1Wz88R1EEsDG63Zt90bz8Y/edit#slide=id.g4d5ab4fc28_0_0)
 
-      - **Objectives** -
-        - Define and compare and contrast UX and UI.
-        - Identify and utilize many of the common UX Conventions present in popular design.
-        - Describe and utilize Visual Hierarchy to improve your users’ experience of your application.
+- **Objectives**
+  - Define and compare and contrast UX and UI.
+  - Identify and utilize many of the common UX Conventions present in popular design.
+  - Describe and utilize Visual Hierarchy to improve your users’ experience of your application.
 
-      - **In Class Activities** -
-        - [Kick off Capstone Project](https://docs.google.com/document/d/1F7oEKH1PXR4rHQf_WP_z8ztVoT0seM0Xl0T8_yxYJp0/edit)
+- **In Class Activities**
+  - [Kick off Capstone Project](https://docs.google.com/document/d/1F7oEKH1PXR4rHQf_WP_z8ztVoT0seM0Xl0T8_yxYJp0/edit)
 
-      - **After Class** -
-        - [Capstone Bootstrap site](https://docs.google.com/document/d/1F7oEKH1PXR4rHQf_WP_z8ztVoT0seM0Xl0T8_yxYJp0/edit)
+- **After Class**
+  - [Capstone Bootstrap site](https://docs.google.com/document/d/1F7oEKH1PXR4rHQf_WP_z8ztVoT0seM0Xl0T8_yxYJp0/edit)

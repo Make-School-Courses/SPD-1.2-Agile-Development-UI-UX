@@ -11,19 +11,19 @@
 
 ## 5. Digital Mockups
 
-    [Class Slides](https://docs.google.com/presentation/u/1/d/1MC9D6sFMJLH0By0de65wevx4Zc7LnN12U3Fgf0sQV3M/edit#slide=id.p)
+[Class Slides](https://docs.google.com/presentation/u/1/d/1MC9D6sFMJLH0By0de65wevx4Zc7LnN12U3Fgf0sQV3M/edit#slide=id.p)
 
-      - **Objectives** -
-        - Create high fidelity and low fidelity digital mock ups
-        - Utilize a variety of design tools including shapes, strokes, boolean tools, type tools, export art
-        - Develop a digital mock up for your own app
+- **Objectives**
+  - Create high fidelity and low fidelity digital mock ups
+  - Utilize a variety of design tools including shapes, strokes, boolean tools, type tools, export art
+  - Develop a digital mock up for your own app
 
-      - **In Class Activities** -
-        - Digital Mockup Lab
+- **In Class Activities**
+  - Digital Mockup Lab
 
-      - **After Class** -
-        - [Digital Mockup](https://docs.google.com/document/u/1/d/1LV1gGf_QhRyX4WnPvEebC1a6SCXD-oF5tbb70QHVzfk/edit?usp=drive_web&ouid=106043311622109841017)
+- **After Class**
+  - [Digital Mockup](https://docs.google.com/document/u/1/d/1LV1gGf_QhRyX4WnPvEebC1a6SCXD-oF5tbb70QHVzfk/edit?usp=drive_web&ouid=106043311622109841017)
 
-      - **Additional Resources** -
-        - [Adobe XD Website tutorial Video](https://www.youtube.com/watch?v=jHBMjjLY0Dw)
-        - [Adobe XD Mobile tutorial Video](Adobe XD Mobile Tutorial [Video])
+- **Additional Resources** 
+  - [Adobe XD Website tutorial Video](https://www.youtube.com/watch?v=jHBMjjLY0Dw)
+  - [Adobe XD Mobile tutorial Video](Adobe XD Mobile Tutorial [Video])

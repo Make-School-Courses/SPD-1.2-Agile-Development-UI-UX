@@ -12,15 +12,15 @@
 
 ## 4. Bootstrap - Dynamic Components
 
-    [Class Slides]()
+[Class Slides]()
 
-      - **Objectives** -
-        -
+- **Objectives**
+  -
 
-      - **In Class Activities** -
-        - Bootstrap Themes
-        - Bootswatch
-        - Inheritance
+- **In Class Activities**
+  - Bootstrap Themes
+  - Bootswatch
+  - Inheritance
 
-      - **After Class** -
-        - [Clone Webpage w/Bootstrap](https://docs.google.com/document/d/1LgTHpiVjRTsjyvKNNQ4_y_lC1M7KW7iQ2AGRgvhlRYw/edit)
+- **After Class**
+  - [Clone Webpage w/Bootstrap](https://docs.google.com/document/d/1LgTHpiVjRTsjyvKNNQ4_y_lC1M7KW7iQ2AGRgvhlRYw/edit)

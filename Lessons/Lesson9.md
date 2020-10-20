@@ -12,15 +12,15 @@
 
 [Class Slides](https://docs.google.com/presentation/d/1sIOJrlxhVqIjl54AufsztBB1WvfGxhqsnCd6I2pyTO0/edit?usp=drive_web&ouid=102349547791146369642)
 
-    - **Objectives** -
-      - Identify the qualities of colors
-      - Use Color effectively for branding and product development
+- **Objectives** 
+  - Identify the qualities of colors
+  - Use Color effectively for branding and product development
 
-    - **In Class Activities**  
-      - *Feedback, Term Project* - Spend 10 mins to give feedback on the typography used in your term project.
-      - *COLOR ACTIVITY* - In class examples with [slides](https://docs.google.com/presentation/d/1sIOJrlxhVqIjl54AufsztBB1WvfGxhqsnCd6I2pyTO0/edit?usp=sharing).
-      - In Class [Exercise](https://github.com/Product-College-Courses/SPD-UI-Color-and-Design)
-      - *Feedback* - spend 10 min to give and get feedback on the in class activity.
+- **In Class Activities**  
+  - *Feedback, Term Project* - Spend 10 mins to give feedback on the typography used in your term project.
+  - *COLOR ACTIVITY* - In class examples with [slides](https://docs.google.com/presentation/d/1sIOJrlxhVqIjl54AufsztBB1WvfGxhqsnCd6I2pyTO0/edit?usp=sharing).
+  - In Class [Exercise](https://github.com/Product-College-Courses/SPD-UI-Color-and-Design)
+  - *Feedback* - spend 10 min to give and get feedback on the in class activity.
 
-    - **After Class**
-      - [Final Project Sprint 2](https://docs.google.com/document/d/15m8P9ic7sJqVovTozIRdikWCI7HQ_f5TOc5qpqyiAYs/edit#)
+- **After Class**
+  - [Final Project Sprint 2](https://docs.google.com/document/d/15m8P9ic7sJqVovTozIRdikWCI7HQ_f5TOc5qpqyiAYs/edit#)

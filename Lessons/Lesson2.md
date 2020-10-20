@@ -13,18 +13,18 @@
 
 ## 2. Bootstrap - Mobile First Design/Grids/Static Components
 
-  [Class Slides](https://docs.google.com/presentation/d/1Ju_KtpVuZwIZO30vGyhUAY5m5ihFfN7ppyYRoMUnmCc/edit)
+[Class Slides](https://docs.google.com/presentation/d/1Ju_KtpVuZwIZO30vGyhUAY5m5ihFfN7ppyYRoMUnmCc/edit)
 
-    - **Objectives** -
-      - Explain what “responsive grids” are and front-end engineers use them.
-      - Be able to deploy the most common multi-column responsive grid pattern.
+- **Objectives**
+  - Explain what “responsive grids” are and front-end engineers use them.
+  - Be able to deploy the most common multi-column responsive grid pattern.
 
-    - **In Class Activities** -
-      - [Clone Webpage w/Bootstrap](https://docs.google.com/document/d/1LgTHpiVjRTsjyvKNNQ4_y_lC1M7KW7iQ2AGRgvhlRYw/edit)
+- **In Class Activities**
+  - [Clone Webpage w/Bootstrap](https://docs.google.com/document/d/1LgTHpiVjRTsjyvKNNQ4_y_lC1M7KW7iQ2AGRgvhlRYw/edit)
 
-    - **After Class** -
-      - [Clone Webpage w/Bootstrap](https://docs.google.com/document/d/1LgTHpiVjRTsjyvKNNQ4_y_lC1M7KW7iQ2AGRgvhlRYw/edit)
+- **After Class**
+  - [Clone Webpage w/Bootstrap](https://docs.google.com/document/d/1LgTHpiVjRTsjyvKNNQ4_y_lC1M7KW7iQ2AGRgvhlRYw/edit)
 
-    - **Additional Resources** -
-      - [Bootstrap Clone Demo (Amazon) Video](https://www.youtube.com/watch?v=GSs0V_ilZbw&t=5s)
-      - [Bootstrap Clone Demo (GitHub) Video](https://www.youtube.com/watch?v=7jmd5qj-fEU&t=24s)
+- **Additional Resources**
+  - [Bootstrap Clone Demo (Amazon) Video](https://www.youtube.com/watch?v=GSs0V_ilZbw&t=5s)
+  - [Bootstrap Clone Demo (GitHub) Video](https://www.youtube.com/watch?v=7jmd5qj-fEU&t=24s)
