@@ -2,9 +2,9 @@
 
 ## Course Description
 
-Term two focuses on the foundational skills of successful engineering teams. In pairs, you and your partner will together build an app using “lean product development” methodology, the industry standard for engineering team collaboration. You'll learn SCRUM planning, an agile process used to ensure that your app meets user needs and technical specifications. 
+Term two focuses on the foundational skills of successful engineering teams. In pairs, you and your partner will build an app using “lean product development” methodology, the industry standard for engineering team collaboration. You'll learn SCRUM planning, an agile process used to ensure that your app meets user needs and technical specifications.
 
-This class also covers how to make a seamless user experience (UX) based on an effective user interface (UI). We utilize design concepts inherent in the world’s most popular apps: information hierarchy, system state, grid systems, onboarding teardowns, typography and color. By the end you and your partner will ship a beautiful app that delights users.
+This class also covers how to make a seamless user experience (UX) based on an effective user interface (UI). We utilize design concepts inherent in the world’s most popular apps: information hierarchy, system state, grid systems, onboarding teardowns, typography and color. By the end you and your partner will each ship a beautiful app that delights users.
 
 ## Why you should know this (optional)
 
@@ -27,12 +27,84 @@ Students by the end of the course will be able to ...
 1. Conduct Sprint Planning and Retrospectives to empower effective collaboration (PLO 3, PLO 4)
 1. Design beautiful, practical, and intuitive apps using the leading UI/UX practices (PLO 3)
 1. Use agile methodology to iterate your app design as informed by user interviews and feedback (PLO 3)
-1. Demonstrate a diverse and individualized set of professional skills necessary to succeed while at Make School and beyond. (PLO 1) 
+1. Demonstrate a diverse and individualized set of professional skills necessary to succeed while at Make School and beyond. (PLO 1)
 1. Practice professional business communication that is actionable with an appreciative tone. (PLO 4)
 
-## Schedule,Tutorials, Projects, and Attendance
+## Schedule
 
-Please use the [SPD 1.2 Course Tracker Spreadsheet](https://docs.google.com/spreadsheets/d/1dxjCDS51qxxWLWxqktegeNXEEMWllIWe6qfpzE2zyek/edit#gid=0) to see the schedule, attendance, due dates, etc. You can find this at make.sc/spd-1-2
+**Course Dates:** Wednesday, October 21 – Wednesday, December 9, 2020 (8 weeks)
+
+**Class Times:** Monday, Wednesday at 9:30am–12:15pm (13 class sessions)
+
+| Class |          Date          |                 Topics                  |
+|:-----:|:----------------------:|:---------------------------------------:|
+|  1 |  Wed, Oct 21               | [Bootstrap - Convention/Configuration] |
+|  2 |  Mon, Oct 26               | [Bootstrap - Mobile First Design/Grids/Static Components] |
+|  3 |  Wed, Oct 28               | [Intro to UI/UX, Visual Hierarchy, History of Web Design] |
+|  - |  Mon, Nov 2                | **Vote! - Civic Responsibility Break** |
+|  4 |  Wed, Nov 4                | Bootstrap - Dynamic Components |
+|  5 |  Mon, Nov 9                | [Digital mockups] |
+|  6 |  Wed, Nov 11               | [User Testing] |
+|  7 |  Mon, Nov 16               | Digital Mock up Lab + Final Project Kick off |
+|  8 |  Wed, Nov 18               | Backlogs + [Git Branching] |
+|  9 |  Mon, Nov 23               | [Color Theory] |
+|  - |  Wed, Nov 25               | **Holiday - Thanksgiving** |
+| 10 |  Mon, Nov 30               | [Typography Theory] |
+| 11 |  Wed, Dec 2                | [User Manual Activity] + Design Unconference |
+| 12 |  Mon, Dec 7                | [Logo Design] |
+| 13 |  Wed, Dec 9                | Prototypes Demos + Setting up your MS Portfolio|  
+
+[Bootstrap - Convention/Configuration]: https://docs.google.com/presentation/u/1/d/1lXplxfWtePlSnKepFQpRIf3emj95l6oT_kgRwl6N_Hk/edit?usp=drive_web&ouid=106043311622109841017
+[Bootstrap - Mobile First Design/Grids/Static Components]: https://docs.google.com/presentation/d/1Ju_KtpVuZwIZO30vGyhUAY5m5ihFfN7ppyYRoMUnmCc/edit
+[Intro to UI/UX, Visual Hierarchy, History of Web Design]: https://docs.google.com/presentation/d/1M5cy17j8AaPwqxv0OcYIJ1Wz88R1EEsDG63Zt90bz8Y/edit#slide=id.g4d5ab4fc28_0_0
+[Digital mockups]: https://docs.google.com/presentation/u/1/d/1MC9D6sFMJLH0By0de65wevx4Zc7LnN12U3Fgf0sQV3M/edit#slide=id.p
+[User Testing]: https://docs.google.com/presentation/d/1MZbpzXa8FvNHywv0IUrCDmazzcS8omLLOtmDBpy54T0/edit#slide=id.p
+[Git Branching]: https://www.makeschool.com/academy/track/standalone/git-to-know-branching/branching
+[Color Theory]: https://docs.google.com/presentation/d/1sIOJrlxhVqIjl54AufsztBB1WvfGxhqsnCd6I2pyTO0/edit#slide=id.g499637735f_0_0
+[Typography Theory]: https://docs.google.com/presentation/d/1uzPL2sBMi7lrcT4lTPU4f8YpAnbI9W8k-OwQ0a5ptGo/edit#slide=id.g448915df68_2_0
+[User Manual Activity]: https://qz.com/1046131/writing-a-user-manual-at-work-makes-teams-less-anxious-and-more-productive/
+[Logo Design]: https://docs.google.com/presentation/d/19e1Bw5-FtiihR3-K5v_nptizdxLiBdgvWAGRO3wAQcs/edit#slide=id.p
+
+## Assignment Schedule
+
+|         Assignment                         | Date Assigned |   Due Date   |            Submission Form           |
+|:------------------------------------------:|:-------------:|:------------:|:------------------------------------:|
+| [Product Landing Page]                     |  Oct 21       |  Oct 26      | Gradescope  |
+| [Clone a Webpage w/Bootstrap]              |  Oct 26       |  Oct 28      | Gradescope  |
+| [Capstone Bootstrap site]                  |  Oct 28       |  Nov 9       | Gradescope  |
+| [Digital Mockup]                           |  Nov 9        |  Nov 16      | Gradescope  |
+| [Sprint 1]                                 |  Nov 16       |  Nov 18      | Gradescope  |
+| [Sprint 2]                                 |  Nov 18       |  Nov 30      | Gradescope  |
+| [Sprint 3]                                 |  Nov 30       |  Dec 7       | Gradescope  |
+| Final Project]                             |  --           |  Dec 9       | Gradescope  |
+
+[Product Landing Page]: https://www.makeschool.com/academy/track/standalone/tutorial-template-title-max-56-characters-9k4/starting-the-project
+[Clone a Webpage w/Bootstrap]: https://docs.google.com/document/d/1LgTHpiVjRTsjyvKNNQ4_y_lC1M7KW7iQ2AGRgvhlRYw/edit
+[Capstone Bootstrap Site]: https://docs.google.com/document/d/1F7oEKH1PXR4rHQf_WP_z8ztVoT0seM0Xl0T8_yxYJp0/edit
+[Digital Mockup]: https://docs.google.com/document/u/1/d/1LV1gGf_QhRyX4WnPvEebC1a6SCXD-oF5tbb70QHVzfk/edit?usp=drive_web&ouid=106043311622109841017
+[Sprint 1]: https://docs.google.com/document/d/15m8P9ic7sJqVovTozIRdikWCI7HQ_f5TOc5qpqyiAYs/edit#
+[Sprint 2]: https://docs.google.com/document/d/15m8P9ic7sJqVovTozIRdikWCI7HQ_f5TOc5qpqyiAYs/edit#
+[Sprint 3]: https://docs.google.com/document/d/15m8P9ic7sJqVovTozIRdikWCI7HQ_f5TOc5qpqyiAYs/edit#
+[Final Project]: https://docs.google.com/document/d/15m8P9ic7sJqVovTozIRdikWCI7HQ_f5TOc5qpqyiAYs/edit#
+
+## Class Assignments
+
+We will be using [Gradescope](gradescope.com), which allows us to provide fast and accurate feedback on your work. *All assigned work will be submitted through Gradescope, and assignment and exam grades will be returned through Gradescope.*
+
+As soon as grades are posted, you will be notified immediately so that you can log in and see your feedback. You may also submit regrade requests if you feel we have made a mistake.
+
+Your Gradescope login is your Make School email, and your password can be changed at [https://gradescope.com/reset_password](https://gradescope.com/reset_password). The same link can be used if you need to set your password for the first time.
+
+## Additional resources
+
+- [Your First Landing Page tutorial](https://www.makeschool.com/academy/track/standalone/your-first-website--landing-page/dev-environment)
+- [Bootstrap Clone Demo (Amazon) Video](https://www.youtube.com/watch?v=GSs0V_ilZbw&t=5s)
+- [Bootstrap Clone Demo (GitHub) Video](https://www.youtube.com/watch?v=7jmd5qj-fEU&t=24s)
+- [Article on Wireframing](https://careerfoundry.com/en/blog/ux-design/what-is-a-wireframe-guide/)
+- [Adobe XD Website tutorial Video](https://www.youtube.com/watch?v=jHBMjjLY0Dw)
+- [Adobe XD Mobile tutorial Video](Adobe XD Mobile Tutorial [Video])
+- [GitHub Branching Video](https://www.youtube.com/watch?v=JTE2Fn_sCZs)
+
 
 ## Evaluation ([Study Guide](https://docs.google.com/document/d/1jIQNkW7CkgLC2aSnqrIfkJaB-pXvygDBqrUBqpZp_SQ/edit#))
 
@@ -50,9 +122,9 @@ Attendance requirements for scheduled sessions are:
 - No more than two no call no shows per term in any scheduled session.
 - No more than four excused absences per term in any scheduled session.
 
-Failure to meet these requirements will result in a PIP (Participation Improvement Plan).  Failure to improve after the PIP is cause for not being allowed to continue at Make School. 
+Failure to meet these requirements will result in a PIP (Participation Improvement Plan).  Failure to improve after the PIP is cause for not being allowed to continue at Make School.
 
-## Resources 
+## Resources
 
 - [Huddles](resources/huddles.md)
 - [Coaching](resources/coaching.md)
