@@ -24,6 +24,6 @@
 - **After Class**
   - [Digital Mockup](https://docs.google.com/document/u/1/d/1LV1gGf_QhRyX4WnPvEebC1a6SCXD-oF5tbb70QHVzfk/edit?usp=drive_web&ouid=106043311622109841017)
 
-- **Additional Resources** 
+- **Additional Resources**
   - [Adobe XD Website tutorial Video](https://www.youtube.com/watch?v=jHBMjjLY0Dw)
-  - [Adobe XD Mobile tutorial Video](Adobe XD Mobile Tutorial [Video])
+  - [Adobe XD Mobile tutorial Video](https://www.youtube.com/watch?v=Yt2troF-Eyc)

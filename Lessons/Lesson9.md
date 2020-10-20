@@ -8,11 +8,11 @@
   - **After Class** - 1) conduct a user test with your software mockup. You must record test session with audio. Use Quicktime/Screen Capture. You'll be including these videos with your blogpost. 2)  share your mock up with your coach.
   -->
 
-## 11. Color theory
+## 9. Color theory
 
 [Class Slides](https://docs.google.com/presentation/d/1sIOJrlxhVqIjl54AufsztBB1WvfGxhqsnCd6I2pyTO0/edit?usp=drive_web&ouid=102349547791146369642)
 
-- **Objectives** 
+- **Objectives**
   - Identify the qualities of colors
   - Use Color effectively for branding and product development
 

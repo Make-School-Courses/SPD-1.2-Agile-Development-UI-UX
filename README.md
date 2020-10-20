@@ -105,7 +105,7 @@ Your Gradescope login is your Make School email, and your password can be change
 - [Bootstrap Clone Demo (GitHub) Video](https://www.youtube.com/watch?v=7jmd5qj-fEU&t=24s)
 - [Article on Wireframing](https://careerfoundry.com/en/blog/ux-design/what-is-a-wireframe-guide/)
 - [Adobe XD Website tutorial Video](https://www.youtube.com/watch?v=jHBMjjLY0Dw)
-- [Adobe XD Mobile tutorial Video](Adobe XD Mobile Tutorial [Video])
+- [Adobe XD Mobile tutorial Video](https://www.youtube.com/watch?v=Yt2troF-Eyc)
 - [GitHub Branching Video](https://www.youtube.com/watch?v=JTE2Fn_sCZs)
 
 
