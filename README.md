@@ -6,7 +6,7 @@ Term two focuses on the foundational skills of successful engineering teams. In 
 
 This class also covers how to make a seamless user experience (UX) based on an effective user interface (UI). We utilize design concepts inherent in the world’s most popular apps: information hierarchy, system state, grid systems, onboarding teardowns, typography and color. By the end you and your partner will each ship a beautiful app that delights users.
 
-## Why you should know this (optional)
+## Why you should know this 
 
 Beautifully designed apps are a critical part of your portfolio - recruiters often notice design first and then look at the backend. Whether or not you end up becoming a front end developer, the tools you'll use in this course will give you the language to interface with design teams, understand user psychology, and practices to creating exceptional products.
 
