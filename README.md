@@ -42,28 +42,31 @@ Students by the end of the course will be able to ...
 |  2 |  Mon, Oct 26               | [Bootstrap - Mobile First Design/Grids/Static Components] |
 |  3 |  Wed, Oct 28               | [Intro to UI/UX, Visual Hierarchy, History of Web Design] |
 |  - |  Mon, Nov 2                | **Vote! - Civic Responsibility Break** |
-|  4 |  Wed, Nov 4                | Bootstrap - Dynamic Components |
+|  4 |  Wed, Nov 4                | [Bootstrap - Dynamic Components] |
 |  5 |  Mon, Nov 9                | [Digital mockups] |
 |  6 |  Wed, Nov 11               | [User Testing] |
-|  7 |  Mon, Nov 16               | Digital Mock up Lab + Final Project Kick off |
-|  8 |  Wed, Nov 18               | Backlogs + [Git Branching] |
+|  7 |  Mon, Nov 16               | [Digital Mock up Lab + Final Project Kick off] |
+|  8 |  Wed, Nov 18               | [Backlogs + Git Branching] |
 |  9 |  Mon, Nov 23               | [Color Theory] |
 |  - |  Wed, Nov 25               | **Holiday - Thanksgiving** |
 | 10 |  Mon, Nov 30               | [Typography Theory] |
 | 11 |  Wed, Dec 2                | [User Manual Activity] + Design Unconference |
 | 12 |  Mon, Dec 7                | [Logo Design] |
-| 13 |  Wed, Dec 9                | Prototypes Demos + Setting up your MS Portfolio|  
+| 13 |  Wed, Dec 9                | [Prototypes Demos + Setting up your MS Portfolio]|  
 
-[Bootstrap - Convention/Configuration]: https://docs.google.com/presentation/u/1/d/1lXplxfWtePlSnKepFQpRIf3emj95l6oT_kgRwl6N_Hk/edit?usp=drive_web&ouid=106043311622109841017
-[Bootstrap - Mobile First Design/Grids/Static Components]: https://docs.google.com/presentation/d/1Ju_KtpVuZwIZO30vGyhUAY5m5ihFfN7ppyYRoMUnmCc/edit
-[Intro to UI/UX, Visual Hierarchy, History of Web Design]: https://docs.google.com/presentation/d/1M5cy17j8AaPwqxv0OcYIJ1Wz88R1EEsDG63Zt90bz8Y/edit#slide=id.g4d5ab4fc28_0_0
-[Digital mockups]: https://docs.google.com/presentation/u/1/d/1MC9D6sFMJLH0By0de65wevx4Zc7LnN12U3Fgf0sQV3M/edit#slide=id.p
-[User Testing]: https://docs.google.com/presentation/d/1MZbpzXa8FvNHywv0IUrCDmazzcS8omLLOtmDBpy54T0/edit#slide=id.p
-[Git Branching]: https://www.makeschool.com/academy/track/standalone/git-to-know-branching/branching
-[Color Theory]: https://docs.google.com/presentation/d/1sIOJrlxhVqIjl54AufsztBB1WvfGxhqsnCd6I2pyTO0/edit#slide=id.g499637735f_0_0
-[Typography Theory]: https://docs.google.com/presentation/d/1uzPL2sBMi7lrcT4lTPU4f8YpAnbI9W8k-OwQ0a5ptGo/edit#slide=id.g448915df68_2_0
-[User Manual Activity]: https://qz.com/1046131/writing-a-user-manual-at-work-makes-teams-less-anxious-and-more-productive/
-[Logo Design]: https://docs.google.com/presentation/d/19e1Bw5-FtiihR3-K5v_nptizdxLiBdgvWAGRO3wAQcs/edit#slide=id.p
+[Bootstrap - Convention/Configuration]:Lessons/Lesson1.md
+[Bootstrap - Mobile First Design/Grids/Static Components]: Lessons/Lesson2.md
+[Intro to UI/UX, Visual Hierarchy, History of Web Design]: Lessons/Lesson3.md
+[Bootstrap - Dynamic Components]:  Lessons/Lesson4.md
+[Digital mockups]: Lessons/Lesson5.md
+[User Testing]: Lessons/Lesson6.md
+[Digital Mock up Lab + Final Project Kick off]: Lessons/Lesson7.md
+[Backlogs + Git Branching]: Lessons/Lesson8.md
+[Color Theory]: Lessons/Lesson9.md
+[Typography Theory]: Lessons/Lesson10.md
+[User Manual Activity]: Lessons/Lesson11.md
+[Logo Design]: Lessons/Lesson12.md
+[Prototypes Demos + Setting up your MS Portfolio]: Lessons/Lesson13.md
 
 ## Assignment Schedule
 
@@ -76,7 +79,7 @@ Students by the end of the course will be able to ...
 | [Sprint 1]                                 |  Nov 16       |  Nov 18      | Gradescope  |
 | [Sprint 2]                                 |  Nov 18       |  Nov 30      | Gradescope  |
 | [Sprint 3]                                 |  Nov 30       |  Dec 7       | Gradescope  |
-| Final Project]                             |  --           |  Dec 9       | Gradescope  |
+| Final Project                              |  --           |  Dec 9       | Gradescope  |
 
 [Product Landing Page]: https://www.makeschool.com/academy/track/standalone/tutorial-template-title-max-56-characters-9k4/starting-the-project
 [Clone a Webpage w/Bootstrap]: https://docs.google.com/document/d/1LgTHpiVjRTsjyvKNNQ4_y_lC1M7KW7iQ2AGRgvhlRYw/edit
