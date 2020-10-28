@@ -6,7 +6,7 @@ Term two focuses on the foundational skills of successful engineering teams. In 
 
 This class also covers how to make a seamless user experience (UX) based on an effective user interface (UI). We utilize design concepts inherent in the world’s most popular apps: information hierarchy, system state, grid systems, onboarding teardowns, typography and color. By the end you and your partner will each ship a beautiful app that delights users.
 
-## Why you should know this 
+## Why you should know this
 
 Beautifully designed apps are a critical part of your portfolio - recruiters often notice design first and then look at the backend. Whether or not you end up becoming a front end developer, the tools you'll use in this course will give you the language to interface with design teams, understand user psychology, and practices to creating exceptional products.
 
@@ -32,25 +32,37 @@ Students by the end of the course will be able to ...
 
 ## Schedule
 
+### **Section A: Adriana**
+
 **Course Dates:** Wednesday, October 21 – Wednesday, December 9, 2020 (8 weeks)
 
 **Class Times:** Monday, Wednesday at 9:30am–12:15pm (13 class sessions)
 
-| Class |          Date          |                 Topics                  |
-|:-----:|:----------------------:|:---------------------------------------:|
+### **Section B: Braus - Hybrid**
+
+**Course Dates:** Wednesday, October 21 – Wednesday, December 9, 2020 (8 weeks)
+
+**Class Times:** Monday, Wednesday at 9:30am–12:15pm (13 class sessions)
+
+
+Hybrid sections are a mixture of online and in person components.  In person sessions include labs and group work as noted on your schedule.  These sections will run according to the Hybrid Delivery Policy: [make.sc/hybrid-delivery-policy](make.sc/hybrid-delivery-policy)
+
+
+| Class |          Date          |                 Topics                  |  In-Person Labs   |
+|:-----:|:----------------------:|:---------------------------------------:|:-----------------:|
 |  1 |  Wed, Oct 21               | [Bootstrap - Convention/Configuration] |
 |  2 |  Mon, Oct 26               | [Bootstrap - Mobile First Design/Grids/Static Components] |
-|  3 |  Wed, Oct 28               | [Intro to UI/UX, Visual Hierarchy, History of Web Design] |
+|  3 |  Wed, Oct 28               | [Intro to UI/UX, Visual Hierarchy, History of Web Design] | Lab |
 |  - |  Mon, Nov 2                | **Vote! - Civic Responsibility Break** |
-|  4 |  Wed, Nov 4                | [Bootstrap - Dynamic Components] |
+|  4 |  Wed, Nov 4                | [Bootstrap - Dynamic Components] | Lab |
 |  5 |  Mon, Nov 9                | [Digital mockups] |
-|  6 |  Wed, Nov 11               | [User Testing] |
+|  6 |  Wed, Nov 11               | [User Testing] | Lab |
 |  7 |  Mon, Nov 16               | [Digital Mock up Lab + Final Project Kick off] |
-|  8 |  Wed, Nov 18               | [Backlogs + Git Branching] |
+|  8 |  Wed, Nov 18               | [Backlogs + Git Branching] | Lab |
 |  9 |  Mon, Nov 23               | [Color Theory] |
 |  - |  Wed, Nov 25               | **Holiday - Thanksgiving** |
 | 10 |  Mon, Nov 30               | [Typography Theory] |
-| 11 |  Wed, Dec 2                | [User Manual Activity] + Design Unconference |
+| 11 |  Wed, Dec 2                | [User Manual Activity] + Design Unconference |Lab |
 | 12 |  Mon, Dec 7                | [Logo Design] |
 | 13 |  Wed, Dec 9                | [Prototypes Demos + Setting up your MS Portfolio]|  
 
@@ -109,14 +121,14 @@ Your Gradescope login is your Make School email, and your password can be change
 - [GitHub Branching Video](https://www.youtube.com/watch?v=JTE2Fn_sCZs)
 
 
-## Evaluation ([Study Guide](https://docs.google.com/document/d/1jIQNkW7CkgLC2aSnqrIfkJaB-pXvygDBqrUBqpZp_SQ/edit#))
+## Evaluation
 
 To pass this course you must meet the following requirements:
 
+- Complete all required assignments
+- Pass all projects according to the associated project rubric
+- Actively participate in class and abide by the attendance policy
 - Make up all classwork from all absences
-- Finish all required tutorials and projects
-
-View this [Study Guide](https://docs.google.com/document/d/1jIQNkW7CkgLC2aSnqrIfkJaB-pXvygDBqrUBqpZp_SQ/edit#) to prepare for the exam.
 
 ## Attendance
 Just like any job, attendance at Make School is required and a key component of your success. Attendance is being onsite from 9:30 to 5:30 each day, attending all scheduled sessions including classes, huddles, coaching and school meetings, and working in the study labs when not in a scheduled session. Working onsite allows you to learn with your peers, have access to support from TAs, instructors and others, and is vital to your learning.
