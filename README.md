@@ -50,21 +50,21 @@ Hybrid sections are a mixture of online and in person components.  In person ses
 
 | Class |          Date          |                 Topics                  |  In-Person Labs   |
 |:-----:|:----------------------:|:---------------------------------------:|:-----------------:|
-|  1 |  Wed, Oct 21               | [Bootstrap - Convention/Configuration] |
-|  2 |  Mon, Oct 26               | [Bootstrap - Mobile First Design/Grids/Static Components] |
+|  1 |  Wed, Oct 21               | [Bootstrap - Convention/Configuration] | |
+|  2 |  Mon, Oct 26               | [Bootstrap - Mobile First Design/Grids/Static Components] | |
 |  3 |  Wed, Oct 28               | [Intro to UI/UX, Visual Hierarchy, History of Web Design] | Lab |
-|  - |  Mon, Nov 2                | **Vote! - Civic Responsibility Break** |
-|  4 |  Wed, Nov 4                | [Bootstrap - Dynamic Components] | Lab |
-|  5 |  Mon, Nov 9                | [Digital mockups] |
-|  6 |  Wed, Nov 11               | [User Testing] | Lab |
-|  7 |  Mon, Nov 16               | [Digital Mock up Lab + Final Project Kick off] |
-|  8 |  Wed, Nov 18               | [Backlogs + Git Branching] | Lab |
-|  9 |  Mon, Nov 23               | [Color Theory] |
-|  - |  Wed, Nov 25               | **Holiday - Thanksgiving** |
-| 10 |  Mon, Nov 30               | [Typography Theory] |
+|  - |  Mon, Nov 2                | **Vote! - Civic Responsibility Break** | |
+|  4 |  Wed, Nov 4                | [Bootstrap - Dynamic Components] | Lab | 
+|  5 |  Mon, Nov 9                | [Digital mockups] | |
+|  6 |  Wed, Nov 11               | [User Testing] | Lab | 
+|  7 |  Mon, Nov 16               | [Digital Mock up Lab + Final Project Kick off] | |
+|  8 |  Wed, Nov 18               | [Backlogs + Git Branching] | Lab | 
+|  9 |  Mon, Nov 23               | [Color Theory] | |
+|  - |  Wed, Nov 25               | **Holiday - Thanksgiving** ||
+| 10 |  Mon, Nov 30               | [Typography Theory] ||
 | 11 |  Wed, Dec 2                | [User Manual Activity] + Design Unconference |Lab |
-| 12 |  Mon, Dec 7                | [Logo Design] |
-| 13 |  Wed, Dec 9                | [Prototypes Demos + Setting up your MS Portfolio]|  
+| 12 |  Mon, Dec 7                | [Logo Design] ||
+| 13 |  Wed, Dec 9                | [Prototypes Demos + Setting up your MS Portfolio]|  |
 
 [Bootstrap - Convention/Configuration]:Lessons/Lesson1.md
 [Bootstrap - Mobile First Design/Grids/Static Components]: Lessons/Lesson2.md
