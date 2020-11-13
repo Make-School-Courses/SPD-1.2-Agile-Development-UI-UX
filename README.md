@@ -50,8 +50,8 @@ Hybrid sections are a mixture of online and in person components.  In person ses
 
 | Class |          Date          |                 Topics                  |  In-Person Labs   |
 |:-----:|:----------------------:|:---------------------------------------:|:-----------------:|
-|  1 |  Wed, Oct 21               | [Bootstrap - Convention/Configuration] |
-|  2 |  Mon, Oct 26               | [Bootstrap - Mobile First Design/Grids/Static Components] |
+|  1 |  Wed, Oct 21               | [Bootstrap - Convention/Configuration] | |
+|  2 |  Mon, Oct 26               | [Bootstrap - Mobile First Design/Grids/Static Components] | |
 |  3 |  Wed, Oct 28               | [Intro to UI/UX, Visual Hierarchy, History of Web Design] | Lab |
 |  - |  Mon, Nov 2                | **Vote! - Civic Responsibility Break** |
 |  4 |  Wed, Nov 4                | [Bootstrap - Dynamic Components] | Lab |
@@ -125,8 +125,7 @@ Your Gradescope login is your Make School email, and your password can be change
 
 To pass this course you must meet the following requirements:
 
-- Complete all required assignments
-- Pass all projects according to the associated project rubric
+- Complete and turn in all assigned tutorials and projects
 - Actively participate in class and abide by the attendance policy
 - Make up all classwork from all absences
 
