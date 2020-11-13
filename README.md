@@ -32,21 +32,13 @@ Students by the end of the course will be able to ...
 
 ## Schedule
 
+<!-- tabs:start -->
+<!-- omit in toc -->
 ### **Section A: Adriana**
 
 **Course Dates:** Wednesday, October 21 – Wednesday, December 9, 2020 (8 weeks)
 
 **Class Times:** Monday, Wednesday at 9:30am–12:15pm (13 class sessions)
-
-### **Section B: Braus - Hybrid**
-
-**Course Dates:** Wednesday, October 21 – Wednesday, December 9, 2020 (8 weeks)
-
-**Class Times:** Monday, Wednesday at 9:30am–12:15pm (13 class sessions)
-
-
-Hybrid sections are a mixture of online and in person components.  In person sessions include labs and group work as noted on your schedule.  These sections will run according to the Hybrid Delivery Policy: [make.sc/hybrid-delivery-policy](make.sc/hybrid-delivery-policy)
-
 
 | Class |          Date          |                 Topics                  |  In-Person Labs   |
 |:-----:|:----------------------:|:---------------------------------------:|:-----------------:|
@@ -66,6 +58,33 @@ Hybrid sections are a mixture of online and in person components.  In person ses
 | 12 |  Mon, Dec 7                | [User Manual Activity] +  Retrospective Sprint 3|
 | 13 |  Wed, Dec 9                | [Prototypes Demos + Setting up your MS Portfolio]|  
 
+<!-- omit in toc -->
+### **Section B: Braus - Hybrid**
+
+**Course Dates:** Wednesday, October 21 – Wednesday, December 9, 2020 (8 weeks)
+
+**Class Times:** Monday, Wednesday at 9:30am–12:15pm (13 class sessions)
+
+| Class |          Date          |                 Topics                  |  In-Person Labs   |
+|:-----:|:----------------------:|:---------------------------------------:|:-----------------:|
+|  1 |  Wed, Oct 21               | [Bootstrap - Convention/Configuration] | |
+|  2 |  Mon, Oct 26               | [Bootstrap - Mobile First Design/Grids/Static Components] | |
+|  3 |  Wed, Oct 28               | [Intro to UI/UX, Visual Hierarchy, History of Web Design] | Lab |
+|  - |  Mon, Nov 2                | **Vote! - Civic Responsibility Break** |
+|  4 |  Wed, Nov 4                | [Bootstrap - Dynamic Components] | Lab |
+|  5 |  Mon, Nov 9                | [Digital mockups] |
+|  6 |  Wed, Nov 11               | [User Testing] | Lab |
+|  7 |  Mon, Nov 16               |  Accessibility - Universal Design |
+|  8 |  Wed, Nov 18               | [Digital Mock up Lab + Final Project Kick off] | Lab |
+|  9 |  Mon, Nov 23               | [Backlogs + Git Branching] + Retrospective Sprint 1|
+|  - |  Wed, Nov 25               | **Holiday - Thanksgiving** |
+| 10 |  Mon, Nov 30               | [Color Theory] + Retrospective Sprint 2 |
+| 11 |  Wed, Dec 2                | [Typography Theory] + Design Unconference |Lab |
+| 12 |  Mon, Dec 7                | [User Manual Activity] +  Retrospective Sprint 3|
+| 13 |  Wed, Dec 9                | [Prototypes Demos + Setting up your MS Portfolio]|  
+
+<!-- tabs:end -->
+
 [Bootstrap - Convention/Configuration]:Lessons/Lesson1.md
 [Bootstrap - Mobile First Design/Grids/Static Components]: Lessons/Lesson2.md
 [Intro to UI/UX, Visual Hierarchy, History of Web Design]: Lessons/Lesson3.md
@@ -81,6 +100,8 @@ Hybrid sections are a mixture of online and in person components.  In person ses
 [Prototypes Demos + Setting up your MS Portfolio]: Lessons/Lesson13.md
 
 ## Assignment Schedule
+
+All assignments except for the final project are graded on completion. Individual requirements for each are listed in the description of the assignment.
 
 |         Assignment                         | Date Assigned |   Due Date   |            Submission Form           |
 |:------------------------------------------:|:-------------:|:------------:|:------------------------------------:|
