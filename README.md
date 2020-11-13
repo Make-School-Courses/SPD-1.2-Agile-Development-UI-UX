@@ -57,13 +57,13 @@ Hybrid sections are a mixture of online and in person components.  In person ses
 |  4 |  Wed, Nov 4                | [Bootstrap - Dynamic Components] | Lab |
 |  5 |  Mon, Nov 9                | [Digital mockups] |
 |  6 |  Wed, Nov 11               | [User Testing] | Lab |
-|  7 |  Mon, Nov 16               | [Digital Mock up Lab + Final Project Kick off] |
-|  8 |  Wed, Nov 18               | [Backlogs + Git Branching] | Lab |
-|  9 |  Mon, Nov 23               | [Color Theory] |
+|  7 |  Mon, Nov 16               |  Accessibility - Universal Design |
+|  8 |  Wed, Nov 18               | [Digital Mock up Lab + Final Project Kick off] | Lab |
+|  9 |  Mon, Nov 23               | [Backlogs + Git Branching] + Retrospective Sprint 1|
 |  - |  Wed, Nov 25               | **Holiday - Thanksgiving** |
-| 10 |  Mon, Nov 30               | [Typography Theory] |
-| 11 |  Wed, Dec 2                | [User Manual Activity] + Design Unconference |Lab |
-| 12 |  Mon, Dec 7                | [Logo Design] |
+| 10 |  Mon, Nov 30               | [Color Theory] + Retrospective Sprint 2 |
+| 11 |  Wed, Dec 2                | [Typography Theory] + Design Unconference |Lab |
+| 12 |  Mon, Dec 7                | [User Manual Activity] +  Retrospective Sprint 3|
 | 13 |  Wed, Dec 9                | [Prototypes Demos + Setting up your MS Portfolio]|  
 
 [Bootstrap - Convention/Configuration]:Lessons/Lesson1.md
@@ -91,7 +91,7 @@ Hybrid sections are a mixture of online and in person components.  In person ses
 | [Sprint 1]                                 |  Nov 16       |  Nov 18      | Gradescope  |
 | [Sprint 2]                                 |  Nov 18       |  Nov 30      | Gradescope  |
 | [Sprint 3]                                 |  Nov 30       |  Dec 7       | Gradescope  |
-| Final Project                              |  --           |  Dec 9       | Gradescope  |
+| [Final Project]                            |  --           |  Dec 9       | Gradescope  |
 
 [Product Landing Page]: https://www.makeschool.com/academy/track/standalone/tutorial-template-title-max-56-characters-9k4/starting-the-project
 [Clone a Webpage w/Bootstrap]: https://docs.google.com/document/d/1LgTHpiVjRTsjyvKNNQ4_y_lC1M7KW7iQ2AGRgvhlRYw/edit
