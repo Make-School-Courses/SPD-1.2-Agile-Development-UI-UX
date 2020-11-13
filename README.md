@@ -101,7 +101,7 @@ Students by the end of the course will be able to ...
 
 ## Assignment Schedule
 
-All assignments except for the final project are graded on completion. Individual requirements for each are listed in the description of the assignment.
+All assignments are graded on completion. Individual requirements for each are listed in the description of the assignment.
 
 |         Assignment                         | Date Assigned |   Due Date   |            Submission Form           |
 |:------------------------------------------:|:-------------:|:------------:|:------------------------------------:|
@@ -146,7 +146,8 @@ Your Gradescope login is your Make School email, and your password can be change
 
 To pass this course you must meet the following requirements:
 
-- Complete and turn in all assigned tutorials and projects
+- Complete and turn in all required tutorials and projects
+- Pass all the sprints in the final project.  
 - Actively participate in class and abide by the attendance policy
 - Make up all classwork from all absences
 
