@@ -8,10 +8,12 @@
     - *Peer Editing* - We'll peer edit each other's blog posts using the [Blog Post and Writing Rubric](https://docs.google.com/document/d/1T1oqHFoRo0kl7mPUTFupmsoEkLYltKsVgtqyGKDaCgY/edit?usp=drive_web&ouid=102349547791146369642).
   - **After Class** - 1) finish your blog post final draft 2) share your blog post with your coach 3) study for the SPD 1.2 assessment occuring on Monday Dec 10th.
 -->
-## 12. Logo Design
+## 12. Accessibility - Universal Design
+
+- [Slides](https://docs.google.com/presentation/d/1Ux2tuLi-FDN1r4Wv9bqvLUJYvQNE-xOqKZMxkGHOHm0/edit?usp=sharing)
 
 - **In Class Activities**  
-  - [Logo design Activity](https://docs.google.com/presentation/d/19e1Bw5-FtiihR3-K5v_nptizdxLiBdgvWAGRO3wAQcs/edit#slide=id.p/)
+  - Evaluating Websites using ChromeVox
 
 - **After Class**
-  - [Final Project Sprint 3](https://docs.google.com/document/d/15m8P9ic7sJqVovTozIRdikWCI7HQ_f5TOc5qpqyiAYs/edit#)
+  - [Digital Mockup](https://docs.google.com/document/u/1/d/1LV1gGf_QhRyX4WnPvEebC1a6SCXD-oF5tbb70QHVzfk/edit?usp=drive_web&ouid=106043311622109841017)

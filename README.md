@@ -49,7 +49,7 @@ Students by the end of the course will be able to ...
 |  4 |  Wed, Nov 4                | [Bootstrap - Dynamic Components] | Lab |
 |  5 |  Mon, Nov 9                | [Digital mockups] |
 |  6 |  Wed, Nov 11               | [User Testing] | Lab |
-|  7 |  Mon, Nov 16               |  Accessibility - Universal Design |
+|  7 |  Mon, Nov 16               | [Accessibility - Universal Design] |
 |  8 |  Wed, Nov 18               | [Digital Mock up Lab + Final Project Kick off] | Lab |
 |  9 |  Mon, Nov 23               | [Backlogs + Git Branching] + Retrospective Sprint 1|
 |  - |  Wed, Nov 25               | **Holiday - Thanksgiving** |
@@ -74,7 +74,7 @@ Students by the end of the course will be able to ...
 |  4 |  Wed, Nov 4                | [Bootstrap - Dynamic Components] | Lab |
 |  5 |  Mon, Nov 9                | [Digital mockups] |
 |  6 |  Wed, Nov 11               | [User Testing] | Lab |
-|  7 |  Mon, Nov 16               |  Accessibility - Universal Design |
+|  7 |  Mon, Nov 16               | [Accessibility - Universal Design] |
 |  8 |  Wed, Nov 18               | [Digital Mock up Lab + Final Project Kick off] | Lab |
 |  9 |  Mon, Nov 23               | [Backlogs + Git Branching] + Retrospective Sprint 1|
 |  - |  Wed, Nov 25               | **Holiday - Thanksgiving** |
@@ -96,8 +96,8 @@ Students by the end of the course will be able to ...
 [Color Theory]: Lessons/Lesson9.md
 [Typography Theory]: Lessons/Lesson10.md
 [User Manual Activity]: Lessons/Lesson11.md
-[Logo Design]: Lessons/Lesson12.md
 [Prototypes Demos + Setting up your MS Portfolio]: Lessons/Lesson13.md
+[Accessibility - Universal Design]: Lessons/Lesson12.md
 
 ## Assignment Schedule
 
