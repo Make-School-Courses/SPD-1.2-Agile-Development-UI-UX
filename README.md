@@ -146,8 +146,8 @@ Your Gradescope login is your Make School email, and your password can be change
 
 To pass this course you must meet the following requirements:
 
-- Complete and turn in all required tutorials and projects
-- Pass all the sprints in the final project.  
+- Complete the [Product Landing Page] tutorial (submit proof of working Product Landing Page project)
+- Complete and turn in all required projects listed in the assignment schedule (see each project for individual evaluation criteria)  
 - Actively participate in class and abide by the attendance policy
 - Make up all classwork from all absences
 
