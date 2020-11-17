@@ -108,9 +108,9 @@ All assignments are graded on completion. Individual requirements for each are l
 | [Product Landing Page]                     |  Oct 21       |  Oct 26      | Gradescope  |
 | [Clone a Webpage w/Bootstrap]              |  Oct 26       |  Oct 28      | Gradescope  |
 | [Capstone Bootstrap site]                  |  Oct 28       |  Nov 9       | Gradescope  |
-| [Digital Mockup]                           |  Nov 9        |  Nov 16      | Gradescope  |
-| [Sprint 1]                                 |  Nov 16       |  Nov 18      | Gradescope  |
-| [Sprint 2]                                 |  Nov 18       |  Nov 30      | Gradescope  |
+| [Digital Mockup]                           |  Nov 9        |  Nov 18      | Gradescope  |
+| [Sprint 1]                                 |  Nov 18       |  Nov 23      | Gradescope  |
+| [Sprint 2]                                 |  Nov 23       |  Nov 30      | Gradescope  |
 | [Sprint 3]                                 |  Nov 30       |  Dec 7       | Gradescope  |
 | [Final Project]                            |  --           |  Dec 9       | Gradescope  |
 
